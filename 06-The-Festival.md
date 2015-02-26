@@ -5,7 +5,6 @@
 > “Efficiunt Daemones, ut quae non sunt, sic tamen
 > quasi sint, conspicienda hominibus exhibeant.”
 > *—Lactantius.*
-  ------------------------------------------------------------------------
 
 I was far from home, and the spell of the eastern sea was upon me. In
 the twilight I heard it pounding on the rocks, and I knew it lay just
