@@ -1,0 +1,30 @@
+---
+title: 'Git to book documentation'
+Subtitle: > 
+    H.P. Lovecraft: The Complete Cthulhu Mythos
+subject: The Complete Cthulhu Mythos
+author:
+- H.P. Lovecraft
+keywords: ebooks, lovecraft, Cthulhu mythos
+rights: Creative Commons Non-Commercial Share Alike 3.0
+language: en-US
+tags: [lovecraft]
+# cover-image: "images/cover.png"
+lang: en
+date: '2015-01-27'
+
+# pandoc format arguments
+# because of security these options are limited
+format-arguments:
+    pdf: >
+        -S
+        --toc
+        -V mainfont='Latin Modern Roman' 
+        -V sansfont='Times New Roman' 
+        -V monofont=Arial -V fontsize=12pt -V version=1.10
+    html: -S --toc-depth=3 --chapters --number-sections --toc
+    epub: -S --epub-embed-font=OpenSans-Regular.ttf --epub-stylesheet=epub.css --epub-chapter-level=3 --number-sections --toc
+    mobi: ok
+ignore-files:
+    - README.md
+...
