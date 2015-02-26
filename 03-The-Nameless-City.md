@@ -446,14 +446,13 @@ the howling wind-wraiths. I tried to crawl against the murderous
 invisible torrent, but I could not even hold my own as I was pushed
 slowly and inexorably toward the unknown world. Finally reason must have
 wholly snapped, for I fell to babbling over and over that unexplainable
-couplet of the mad Arab Alhazred, who dreamed of the nameless city:\
- \
+couplet of the mad Arab Alhazred, who dreamed of the nameless city:
+
   ---------------------------------------------
   “That is not dead which can eternal lie,\
   And with strange aeons even death may die.”
   ---------------------------------------------
 
-\
 Only the grim brooding desert gods know what
 really took place—what indescribable struggles and scrambles in the dark
 I endured or what Abaddon guided me back to life, where I must always
@@ -479,7 +478,4 @@ And as the wind died away I was plunged into
 the ghoul-peopled blackness of earth’s bowels; for behind the last of
 the creatures the great brazen door clanged shut with a deafening peal
 of metallic music whose reverberations swelled out to the distant world
-to hail the rising sun as Memnon hails it from the banks of the Nile.\
-
-
-
+to hail the rising sun as Memnon hails it from the banks of the Nile.
