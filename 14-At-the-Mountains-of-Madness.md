@@ -183,16 +183,12 @@ young fellow named Danforth—pointed out what looked like lava on the
 snowy slope; remarking that this mountain, discovered in 1840, had
 undoubtedly been the source of Poe’s image when he wrote seven years
 later of
- 
 
-  -----------------------------------------------------------------
   “—the lavas that restlessly roll
    Their sulphurous currents down Yaanek
    In the ultimate climes of the pole—
    That groan as they roll down Mount Yaanek
    In the realms of the boreal pole.”
-  -----------------------------------------------------------------
-
 
  Danforth was a great reader of bizarre material, and had talked a good
 deal of Poe. I was interested myself because of the antarctic scene of
