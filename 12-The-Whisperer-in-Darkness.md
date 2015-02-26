@@ -302,7 +302,6 @@ text which reached me in the cramped, archaic-looking scrawl of one who
 had obviously not mingled much with the world during his sedate,
 scholarly life.
 
-
 > R.F.D. #2,
 > Townshend, Windham Co.,
 > Vermont.
@@ -323,7 +322,8 @@ scholarly life.
 > am now 57) before my studies, both general and in Davenport’s book,
 > led me to do some exploring in parts of the hills hereabouts not
 > usually visited.
->     I was directed toward such studies by the
+> 
+> I was directed toward such studies by the
 > queer old tales I used to hear from elderly farmers of the more
 > ignorant sort, but now I wish I had let the whole matter alone. I
 > might say, with all proper modesty, that the subject of anthropology
@@ -334,14 +334,16 @@ scholarly life.
 > races are as old as all mankind. I have seen the reprints of letters
 > from you, and those arguing with you, in the *Rutland Herald,* and
 > guess I know about where your controversy stands at the present time.
->     What I desire to say now is, that I am
+> 
+> What I desire to say now is, that I am
 > afraid your adversaries are nearer right than yourself, even though
 > all reason seems to be on your side. They are nearer right than they
 > realise themselves—for of course they go only by theory, and cannot
 > know what I know. If I knew as little of the matter as they, I would
 > not feel justified in believing as they do. I would be wholly on your
 > side.
->     You can see that I am having a hard time
+> 
+> You can see that I am having a hard time
 > getting to the point, probably because I really dread getting to the
 > point; but the upshot of the matter is that *I have certain evidence
 > that monstrous things do indeed live in the woods on the high hills
@@ -352,7 +354,8 @@ scholarly life.
 > south of Townshend Village, on the side of Dark Mountain) than I dare
 > tell you now. And I have overheard voices in the woods at certain
 > points that I will not even begin to describe on paper.
->     At one place I heard them so much that I
+> 
+> At one place I heard them so much that I
 > took a phonograph there—with a dictaphone attachment and wax blank—and
 > I shall try to arrange to have you hear the record I got. I have run
 > it on the machine for some of the old people up here, and one of the
@@ -364,7 +367,8 @@ scholarly life.
 > ask some of the older backwoods people what they think of it. If you
 > can account for it normally, very well; but there must be something
 > behind it. *Ex nihilo nihil fit,* you know.
->     Now my object in writing you is not to
+> 
+> Now my object in writing you is not to
 > start an argument, but to give you information which I think a man of
 > your tastes will find deeply interesting. *This is private. Publicly I
 > am on your side,* for certain things shew me that it does not do for
@@ -377,7 +381,8 @@ scholarly life.
 > of those spies,* that I got a large part of my clues to the matter. He
 > later killed himself, but I have reason to think there are others
 > now.
->     *The things come from another planet, being
+> 
+> *The things come from another planet, being
 > able to live in interstellar space and fly through it* on clumsy,
 > powerful wings which have a way of resisting the ether but which are
 > too poor at steering to be of much use in helping them about on earth.
@@ -391,7 +396,8 @@ scholarly life.
 > could easily conquer the earth, but have not tried so far because they
 > have not needed to. They would rather leave things as they are to save
 > bother.
->     I think they mean to get rid of me because
+> 
+> I think they mean to get rid of me because
 > of what I have discovered. There is a great black stone with unknown
 > hieroglyphics half worn away which I found in the woods on Round Hill,
 > east of here; and after I took it home everything became different. If
@@ -399,7 +405,8 @@ scholarly life.
 > the earth to where they come from.* They like to take away men of
 > learning once in a while, to keep informed on the state of things in
 > the human world.
->     This leads me to my secondary purpose in
+> 
+> This leads me to my secondary purpose in
 > addressing you—namely, to urge you to hush up the present debate
 > rather than give it more publicity. *People must be kept away from
 > these hills,* and in order to effect this, their curiosity ought not
@@ -407,7 +414,8 @@ scholarly life.
 > with promoters and real estate men flooding Vermont with herds of
 > summer people to overrun the wild places and cover the hills with
 > cheap bungalows.
->     I shall welcome further communication with
+> 
+> I shall welcome further communication with
 > you, and shall try to send you that phonograph record and black stone
 > (which is so worn that photographs don’t shew much) by express if you
 > are willing. I say “try” because I think those creatures have a way of
@@ -415,7 +423,8 @@ scholarly life.
 > named Brown, on a farm near the village, who I think is their spy.
 > Little by little they are trying to cut me off from our world because
 > I know too much about their world.
->      They have the most amazing way of finding
+> 
+> They have the most amazing way of finding
 > out what I do. You may not even get this letter. I think I shall have
 > to leave this part of the country and go to live with my son in San
 > Diego, Cal., if things get any worse, but it is not easy to give up
@@ -433,7 +442,8 @@ scholarly life.
 > Yog-Sothoth and Cthulhu cycles—which are hinted at in the
 > *Necronomicon.* I had access to a copy of that once, and hear that you
 > have one in your college library under lock and key.
->     To conclude, Mr. Wilmarth, I think that
+> 
+> To conclude, Mr. Wilmarth, I think that
 > with our respective studies we can be very useful to each other. I
 > don’t wish to put you in any peril, and suppose I ought to warn you
 > that possession of the stone and the record won’t be very safe; but I
@@ -445,12 +455,14 @@ scholarly life.
 > get near the house at night, and that keep the dogs barking
 > continually. I am glad I didn’t get as deep as this into the business
 > while my wife was alive, for it would have driven her mad.
->     Hoping that I am not bothering you unduly,
+> 
+> Hoping that I am not bothering you unduly,
 > and that you will decide to get in touch with me rather than throw
 > this letter into the waste basket as a madman’s raving, I am\
 > Yrs. very truly,
 > 
 > HENRY W. AKELEY
+> 
 > P.S. I am making some extra prints of certain photographs taken by me,
 > which I think will help to prove a number of the points I have touched
 > on. The old people think they are monstrously true. I shall send you
@@ -719,7 +731,7 @@ one might readily forget!
 > 
 > (A CULTIVATED MALE HUMAN VOICE)
 > 
->     . . . is the Lord of the Woods, even
+> . . . is the Lord of the Woods, even
 > to . . . and the gifts of the men of Leng . . . so from the wells of
 > night to the gulfs of space, and from the gulfs of space to the wells
 > of night, ever the praises of Great Cthulhu, of Tsathoggua, and of Him
@@ -729,12 +741,12 @@ one might readily forget!
 > 
 > (A BUZZING IMITATION OF HUMAN SPEECH)
 > 
->  *Iä! Shub-Niggurath! The Black Goat of the Woods with a Thousand
+> *Iä! Shub-Niggurath! The Black Goat of the Woods with a Thousand
 > Young!*
 > 
 > (HUMAN VOICE)
 > 
->     And it has come to pass that the Lord of
+> And it has come to pass that the Lord of
 > the Woods, being . . . seven and nine, down the onyx steps . . .
 > (tri)butes to Him in the Gulf, Azathoth, He of Whom Thou hast taught
 > us marv(els) . . . on the wings of night out beyond space, out beyond
@@ -743,7 +755,7 @@ one might readily forget!
 > 
 > (BUZZING VOICE)
 > 
->     . . . go out among men and find the ways
+> . . . go out among men and find the ways
 > thereof, that He in the Gulf may know. To Nyarlathotep, Mighty
 > Messenger, must all things be told. And He shall put on the semblance
 > of men, the waxen mask and the robe that hides, and come down from the
@@ -1022,7 +1034,7 @@ moon waned. Again I wrote him encouragingly, but on September 5th there
 came a fresh communication which had obviously crossed my letter in the
 mails; and to this I could not give any such hopeful response. In view
 of its importance I believe I had better give it in full—as best I can
-do from memory of the shaky script. It ran substantially as follows:\
+do from memory of the shaky script. It ran substantially as follows:
 
 > Monday.
 > Dear Wilmarth—
@@ -1062,11 +1074,12 @@ text as faithfully as memory will let me.
 
 > Tuesday.
 > 
->     Clouds didn’t break, so no moon again—and
+> Clouds didn’t break, so no moon again—and
 > going into the wane anyhow. I’d have the house wired for electricity
 > and put in a searchlight if I didn’t know they’d cut the cables as
 > fast as they could be mended.
->     I think I am going crazy. It may be that
+> 
+> I think I am going crazy. It may be that
 > all I have ever written you is a dream or madness. It was bad enough
 > before, but this time it is too much. *They talked to me last
 > night*—talked in that cursed buzzing voice and told me things *that I
@@ -1082,7 +1095,8 @@ text as faithfully as memory will let me.
 > that they may come by day as well as by night before long. Six more
 > dogs killed, and I felt presences all along the wooded parts of the
 > road when I drove to Brattleboro today.
->     It was a mistake for me to try to send you
+> 
+> It was a mistake for me to try to send you
 > that phonograph record and black stone. Better smash the record before
 > it’s too late. Will drop you another line tomorrow if I’m still here.
 > Wish I could arrange to get my books and things to Brattleboro and
@@ -1092,6 +1106,7 @@ text as faithfully as memory will let me.
 > at the house. And I seem to know that I couldn’t get much farther even
 > if I dropped everything and tried. It is horrible—don’t get mixed up
 > in this.
+> 
 > Yrs—AKELEY
 
 I did not sleep at all the night after
