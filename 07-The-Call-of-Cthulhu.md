@@ -646,10 +646,8 @@ deathless Chinamen said that there were double meanings in the
 *Necronomicon* of the mad Arab Abdul Alhazred which the initiated might
 read as they chose, especially the much-discussed couplet:
 
-  -----------------------------------------------
-  *“That is not dead which can eternal lie,\
+  *“That is not dead which can eternal lie,
    And with strange aeons even death may die.”*
-  -----------------------------------------------
 
 Legrasse, deeply impressed and not a little
 bewildered, had inquired in vain concerning the historic affiliations of
@@ -793,78 +791,77 @@ of only moderate length. What it suggested, however, was of portentous
 significance to my flagging quest; and I carefully tore it out for
 immediate action. It read as follows:
 
-  ----------------------------------------------------------
-  *MYSTERY DERELICT FOUND AT SEA\
-  Vigilant Arrives With Helpless Armed New Zealand Yacht in Tow.\
-  One Survivor and Dead Man Found Aboard. Tale of\
-  Desperate Battle and Deaths at Sea.\
-  Rescued Seaman Refuses\
-  Particulars of Strange Experience.\
-  Odd Idol Found in His Possession. Inquiry\
+
+  *MYSTERY DERELICT FOUND AT SEA
+  Vigilant Arrives With Helpless Armed New Zealand Yacht in Tow.
+  One Survivor and Dead Man Found Aboard. Tale of
+  Desperate Battle and Deaths at Sea.
+  Rescued Seaman Refuses
+  Particulars of Strange Experience.
+  Odd Idol Found in His Possession. Inquiry
   to Follow.*
 
-  The Morrison Co.’s freighter *Vigilant,* bound from Valparaiso,\
-  arrived this morning at its wharf in Darling Harbour, having in tow\
-  the battled and disabled but heavily armed steam yacht *Alert* of\
-  Dunedin, N. Z., which was sighted April 12th in S. Latitude 34° 21′,\
+  The Morrison Co.’s freighter *Vigilant,* bound from Valparaiso,
+  arrived this morning at its wharf in Darling Harbour, having in tow
+  the battled and disabled but heavily armed steam yacht *Alert* of
+  Dunedin, N. Z., which was sighted April 12th in S. Latitude 34° 21′,
   W. Longitude 152° 17′ with one living and one dead man aboard.
 
-  The *Vigilant* left Valparaiso March 25th,\
-  and on April 2nd was driven considerably south of her course by\
-  exceptionally heavy storms and monster waves. On April 12th the\
-  derelict was sighted; and though apparently deserted, was found upon\
-  boarding to contain one survivor in a half-delirious condition and one\
-  man who had evidently been dead for more than a week. The living man\
-  was clutching a horrible stone idol of unknown origin, about a foot in\
-  height, regarding whose nature authorities at Sydney University, the\
-  Royal Society, and the Museum in College Street all profess complete\
-  bafflement, and which the survivor says he found in the cabin of the\
+  The *Vigilant* left Valparaiso March 25th,
+  and on April 2nd was driven considerably south of her course by
+  exceptionally heavy storms and monster waves. On April 12th the
+  derelict was sighted; and though apparently deserted, was found upon
+  boarding to contain one survivor in a half-delirious condition and one
+  man who had evidently been dead for more than a week. The living man
+  was clutching a horrible stone idol of unknown origin, about a foot in
+  height, regarding whose nature authorities at Sydney University, the
+  Royal Society, and the Museum in College Street all profess complete
+  bafflement, and which the survivor says he found in the cabin of the
   yacht, in a small carved shrine of common pattern.
 
-  This man, after recovering his senses, told\
-  an exceedingly strange story of piracy and slaughter. He is Gustaf\
-  Johansen, a Norwegian of some intelligence, and had been second mate\
-  of the two-masted schooner *Emma* of Auckland, which sailed for Callao\
-  February 20th with a complement of eleven men. The *Emma,* he says,\
-  was delayed and thrown widely south of her course by the great storm\
-  of March 1st, and on March 22nd, in S. Latitude 49° 51′, W. Longitude\
-  128° 34′, encountered the *Alert,* manned by a queer and evil-looking\
-  crew of Kanakas and half-castes. Being ordered peremptorily to turn\
-  back, Capt. Collins refused; whereupon the strange crew began to fire\
-  savagely and without warning upon the schooner with a peculiarly heavy\
-  battery of brass cannon forming part of the yacht’s equipment. The\
-  *Emma*’s men shewed fight, says the survivor, and though the schooner\
-  began to sink from shots beneath the waterline they managed to heave\
-  alongside their enemy and board her, grappling with the savage crew on\
-  the yacht’s deck, and being forced to kill them all, the number being\
-  slightly superior, because of their particularly abhorrent and\
+  This man, after recovering his senses, told
+  an exceedingly strange story of piracy and slaughter. He is Gustaf
+  Johansen, a Norwegian of some intelligence, and had been second mate
+  of the two-masted schooner *Emma* of Auckland, which sailed for Callao
+  February 20th with a complement of eleven men. The *Emma,* he says,
+  was delayed and thrown widely south of her course by the great storm
+  of March 1st, and on March 22nd, in S. Latitude 49° 51′, W. Longitude
+  128° 34′, encountered the *Alert,* manned by a queer and evil-looking
+  crew of Kanakas and half-castes. Being ordered peremptorily to turn
+  back, Capt. Collins refused; whereupon the strange crew began to fire
+  savagely and without warning upon the schooner with a peculiarly heavy
+  battery of brass cannon forming part of the yacht’s equipment. The
+  *Emma*’s men shewed fight, says the survivor, and though the schooner
+  began to sink from shots beneath the waterline they managed to heave
+  alongside their enemy and board her, grappling with the savage crew on
+  the yacht’s deck, and being forced to kill them all, the number being
+  slightly superior, because of their particularly abhorrent and
   desperate though rather clumsy mode of fighting.
 
-  Three of the *Emma*’s men, including Capt.\
-  Collins and First Mate Green, were killed; and the remaining eight\
-  under Second Mate Johansen proceeded to navigate the captured yacht,\
-  going ahead in their original direction to see if any reason for their\
-  ordering back had existed. The next day, it appears, they raised and\
-  landed on a small island, although none is known to exist in that part\
-  of the ocean; and six of the men somehow died ashore, though Johansen\
-  is queerly reticent about this part of his story, and speaks only of\
-  their falling into a rock chasm. Later, it seems, he and one companion\
-  boarded the yacht and tried to manage her, but were beaten about by\
-  the storm of April 2nd. From that time till his rescue on the 12th the\
-  man remembers little, and he does not even recall when William Briden,\
-  his companion, died. Briden’s death reveals no apparent cause, and was\
-  probably due to excitement or exposure. Cable advices from Dunedin\
-  report that the *Alert* was well known there as an island trader, and\
-  bore an evil reputation along the waterfront. It was owned by a\
-  curious group of half-castes whose frequent meetings and night trips\
-  to the woods attracted no little curiosity; and it had set sail in\
-  great haste just after the storm and earth tremors of March 1st. Our\
-  Auckland correspondent gives the *Emma* and her crew an excellent\
-  reputation, and Johansen is described as a sober and worthy man. The\
-  admiralty will institute an inquiry on the whole matter beginning\
-  tomorrow, at which every effort will be made to induce Johansen to\
+  Three of the *Emma*’s men, including Capt.
+  Collins and First Mate Green, were killed; and the remaining eight
+  under Second Mate Johansen proceeded to navigate the captured yacht,
+  going ahead in their original direction to see if any reason for their
+  ordering back had existed. The next day, it appears, they raised and
+  landed on a small island, although none is known to exist in that part
+  of the ocean; and six of the men somehow died ashore, though Johansen
+  is queerly reticent about this part of his story, and speaks only of
+  their falling into a rock chasm. Later, it seems, he and one companion
+  boarded the yacht and tried to manage her, but were beaten about by
+  the storm of April 2nd. From that time till his rescue on the 12th the
+  man remembers little, and he does not even recall when William Briden,
+  his companion, died. Briden’s death reveals no apparent cause, and was
+  probably due to excitement or exposure. Cable advices from Dunedin
+  report that the *Alert* was well known there as an island trader, and
+  bore an evil reputation along the waterfront. It was owned by a
+  curious group of half-castes whose frequent meetings and night trips
+  to the woods attracted no little curiosity; and it had set sail in
+  great haste just after the storm and earth tremors of March 1st. Our
+  Auckland correspondent gives the *Emma* and her crew an excellent
+  reputation, and Johansen is described as a sober and worthy man. The
+  admiralty will institute an inquiry on the whole matter beginning
+  tomorrow, at which every effort will be made to induce Johansen to
   speak more freely than he has done hitherto.
-  ----------------------------------------------------------
 
 This was all, together with the picture of the
 hellish image; but what a train of ideas it started in my mind! Here
