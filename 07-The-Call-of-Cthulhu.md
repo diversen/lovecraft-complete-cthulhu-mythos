@@ -2,10 +2,9 @@
 
 **By H. P. Lovecraft**
 
-(Found Among the Papers of the Late\
-Francis Wayland Thurston, of Boston)
-
-
+> (Found Among the Papers of the Late\
+> Francis Wayland Thurston, of Boston)
+> 
 > “Of such great powers or beings there may be conceivably a
 > survival . . . a survival of a hugely remote period when . . .
 > consciousness was manifested, perhaps, in shapes and forms long since
