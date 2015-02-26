@@ -17,7 +17,7 @@ date: '2015-01-27'
 # because of security these options are limited
 format-arguments:
     pdf: -S --toc
-    html: -S --toc-depth=3 --chapters --number-sections --toc
+    html: -S --chapters --toc
     epub: -S --toc
     mobi: ok
 ignore-files:
