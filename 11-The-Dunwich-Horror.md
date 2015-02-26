@@ -20,7 +20,7 @@
 
 I.
 
- When a traveller in north central Massachusetts takes the wrong fork at
+When a traveller in north central Massachusetts takes the wrong fork at
 the junction of the Aylesbury pike just beyond Dean’s Corners he comes
 upon a lonely and curious country. The ground gets higher, and the
 brier-bordered stone walls press closer and closer against the ruts of
@@ -102,7 +102,7 @@ the great rounded hills, and made wild orgiastic prayers that were
 answered by loud crackings and rumblings from the ground below. In 1747
 the Reverend Abijah Hoadley, newly come to the Congregational Church at
 Dunwich Village, preached a memorable sermon on the close presence of
-Satan and his imps; in which he said:\
+Satan and his imps; in which he said:
 
 > “It must be allow’d, that these Blasphemies
 > of an infernall Train of Daemons are Matters of too common Knowledge
@@ -1132,7 +1132,7 @@ mixed occult erudition and general illiteracy of the strange being who
 wrote it. Almost the first long passage that Armitage deciphered, an
 entry dated November 26, 1916, proved highly startling and disquieting.
 It was written, he remembered, by a child of three and a half who looked
-like a lad of twelve or thirteen.\
+like a lad of twelve or thirteen.
 
 > “Today learned the Aklo for the Sabaoth,” it
 > ran, “which did not like, it being answerable from the hill and not
@@ -1648,7 +1648,7 @@ were those half-articulate thunder-croakings drawn? Presently they began
 to gather renewed force and coherence as they grew in stark, utter,
 ultimate frenzy.
 
-*“Eh-ya-ya-ya-yahaah—e’yayayayaaaa . . .
+“*Eh-ya-ya-ya-yahaah—e’yayayayaaaa . . .
 ngh’aaaaa . . . ngh’aaaa* . . . h’yuh . . . h’yuh . . . HELP!
 HELP! . . . *ff—ff—ff*—FATHER! FATHER! YOG-SOTHOTH! . . .”
 
@@ -1712,7 +1712,7 @@ a-callin’ its father’s name on the top o’ Sentinel Hill. . . .”
 But Joe Osborn interrupted him to question
 the Arkham men anew.
 
-*“What was it anyhaow,* an’ haowever did
+“*What was it anyhaow,* an’ haowever did
 young Wizard Whateley call it aout o’ the air it come from?”
 
 Armitage chose his words very carefully.

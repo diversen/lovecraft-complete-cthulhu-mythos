@@ -1506,7 +1506,7 @@ the close-packed, secret-guarding hills.
 
 I mentioned this choice in my telegram, and
 was glad to learn in the reply which came toward evening that it had met
-with my prospective host’s endorsement. His wire ran thus:\
+with my prospective host’s endorsement. His wire ran thus:
 
 > ARRANGEMENT SATISFACTORY. WILL MEET 1:08 TRAIN WEDNESDAY. DON’T FORGET
 > RECORD AND LETTERS AND PRINTS. KEEP DESTINATION QUIET. EXPECT GREAT
