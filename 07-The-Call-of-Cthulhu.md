@@ -5,15 +5,15 @@
 (Found Among the Papers of the Late\
 Francis Wayland Thurston, of Boston)
 
-  --------------------------------------------------------------------
+
   “Of such great powers or beings there may be conceivably a
   survival . . . a survival of a hugely remote period when . . .
   consciousness was manifested, perhaps, in shapes and forms long since
   withdrawn before the tide of advancing humanity . . . forms of which
   poetry and legend alone have caught a flying memory and called them
-  gods, monsters, mythical beings of all sorts and kinds. . . .”\
+  gods, monsters, mythical beings of all sorts and kinds. . . .”
   —Algernon Blackwood.
-  --------------------------------------------------------------------
+
 
 I. *The Horror in Clay.*
 
