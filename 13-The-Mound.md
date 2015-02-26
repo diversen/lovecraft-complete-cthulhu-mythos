@@ -1,3 +1,7 @@
+# The Mound
+
+**By H. P. Lovecraft and Zealia Bishop**
+
 I.
 
 It is only within the last few years that most people have stopped
