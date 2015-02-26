@@ -328,7 +328,7 @@ before, let footprints tell what they might; and where it was I had seen
 it were best forgotten. There was no one—in waking hours—who could
 remind me of it; but my dreams are filled with terror, because of
 phrases I dare not quote. I dare quote only one paragraph, put into such
-English as I can make from the awkward Low Latin.\
+English as I can make from the awkward Low Latin.
 
   ------------------------------------------------------------------------
   “The nethermost caverns,” wrote the mad Arab, “are not for the\
