@@ -198,8 +198,8 @@ and the daemons that floated with him down the Oxus; later chanting over
 and over again a phrase from one of Lord Dunsany’s tales—“the
 unreverberate blackness of the abyss”. Once when the descent grew
 amazingly steep I recited something in sing-song from Thomas Moore until
-I feared to recite more:\
- \
+I feared to recite more:
+
   ---------------------------------------------
   “A reservoir of darkness, black\
    As witches’ cauldrons are, when fill’d\
