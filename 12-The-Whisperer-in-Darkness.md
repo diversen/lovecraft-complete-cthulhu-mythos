@@ -303,17 +303,17 @@ had obviously not mingled much with the world during his sedate,
 scholarly life.
 
 
->   R.F.D. \#2,
->    Townshend, Windham Co.,
->    Vermont.
->    May 5, 1928.
+> R.F.D. #2,
+> Townshend, Windham Co.,
+> Vermont.
+> May 5, 1928.
 > 
 > Albert N. Wilmarth, Esq.,
->  118 Saltonstall St.,
->  Arkham, Mass.,
+> 118 Saltonstall St.,
+> Arkham, Mass.,
 > 
->  My dear Sir:—
->  I have read with great interest the *Brattleboro Reformer*’s reprint
+> My dear Sir:—
+> I have read with great interest the *Brattleboro Reformer*’s reprint
 > (Apr. 23, ’28) of your letter on the recent stories of strange bodies
 > seen floating in our flooded streams last fall, and on the curious
 > folklore they so well agree with. It is easy to see why an outlander
