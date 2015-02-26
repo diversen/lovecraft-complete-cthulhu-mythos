@@ -300,20 +300,19 @@ holds almost every word of its portentous message; and again I affirm my
 confidence in the sanity of the man who wrote it. Here is the text—a
 text which reached me in the cramped, archaic-looking scrawl of one who
 had obviously not mingled much with the world during his sedate,
-scholarly life.\
+scholarly life.
 
->   ---------------------------
->   R.F.D. \#2,\
->    Townshend, Windham Co.,\
->    Vermont.\
+
+>   R.F.D. \#2,
+>    Townshend, Windham Co.,
+>    Vermont.
 >    May 5, 1928.
->   ---------------------------
->
-> Albert N. Wilmarth, Esq.,\
->  118 Saltonstall St.,\
->  Arkham, Mass.,\
-> \
->  My dear Sir:—\
+> 
+> Albert N. Wilmarth, Esq.,
+>  118 Saltonstall St.,
+>  Arkham, Mass.,
+> 
+>  My dear Sir:—
 >  I have read with great interest the *Brattleboro Reformer*’s reprint
 > (Apr. 23, ’28) of your letter on the recent stories of strange bodies
 > seen floating in our flooded streams last fall, and on the curious
@@ -323,7 +322,7 @@ scholarly life.\
 > both in and out of Vermont, and was my own attitude as a young man (I
 > am now 57) before my studies, both general and in Davenport’s book,
 > led me to do some exploring in parts of the hills hereabouts not
-> usually visited.\
+> usually visited.
 >     I was directed toward such studies by the
 > queer old tales I used to hear from elderly farmers of the more
 > ignorant sort, but now I wish I had let the whole matter alone. I
@@ -334,14 +333,14 @@ scholarly life.\
 > Elliot Smith, and so on. It is no news to me that tales of hidden
 > races are as old as all mankind. I have seen the reprints of letters
 > from you, and those arguing with you, in the *Rutland Herald,* and
-> guess I know about where your controversy stands at the present time.\
+> guess I know about where your controversy stands at the present time.
 >     What I desire to say now is, that I am
 > afraid your adversaries are nearer right than yourself, even though
 > all reason seems to be on your side. They are nearer right than they
 > realise themselves—for of course they go only by theory, and cannot
 > know what I know. If I knew as little of the matter as they, I would
 > not feel justified in believing as they do. I would be wholly on your
-> side.\
+> side.
 >     You can see that I am having a hard time
 > getting to the point, probably because I really dread getting to the
 > point; but the upshot of the matter is that *I have certain evidence
@@ -352,7 +351,7 @@ scholarly life.\
 > have seen them nearer my own home (I live in the old Akeley place
 > south of Townshend Village, on the side of Dark Mountain) than I dare
 > tell you now. And I have overheard voices in the woods at certain
-> points that I will not even begin to describe on paper.\
+> points that I will not even begin to describe on paper.
 >     At one place I heard them so much that I
 > took a phonograph there—with a dictaphone attachment and wax blank—and
 > I shall try to arrange to have you hear the record I got. I have run
@@ -364,7 +363,7 @@ scholarly life.\
 > voices”—but before you draw conclusions just listen to this record and
 > ask some of the older backwoods people what they think of it. If you
 > can account for it normally, very well; but there must be something
-> behind it. *Ex nihilo nihil fit,* you know.\
+> behind it. *Ex nihilo nihil fit,* you know.
 >     Now my object in writing you is not to
 > start an argument, but to give you information which I think a man of
 > your tastes will find deeply interesting. *This is private. Publicly I
@@ -377,7 +376,7 @@ scholarly life.\
 > from a wretched man who, if he was sane (as I think he was), *was one
 > of those spies,* that I got a large part of my clues to the matter. He
 > later killed himself, but I have reason to think there are others
-> now.\
+> now.
 >     *The things come from another planet, being
 > able to live in interstellar space and fly through it* on clumsy,
 > powerful wings which have a way of resisting the ether but which are
@@ -391,7 +390,7 @@ scholarly life.\
 > happened, more would come from *outside*—any number of them. They
 > could easily conquer the earth, but have not tried so far because they
 > have not needed to. They would rather leave things as they are to save
-> bother.\
+> bother.
 >     I think they mean to get rid of me because
 > of what I have discovered. There is a great black stone with unknown
 > hieroglyphics half worn away which I found in the woods on Round Hill,
@@ -399,7 +398,7 @@ scholarly life.\
 > they think I suspect too much they will either kill me *or take me off
 > the earth to where they come from.* They like to take away men of
 > learning once in a while, to keep informed on the state of things in
-> the human world.\
+> the human world.
 >     This leads me to my secondary purpose in
 > addressing you—namely, to urge you to hush up the present debate
 > rather than give it more publicity. *People must be kept away from
@@ -407,7 +406,7 @@ scholarly life.\
 > to be aroused any further. Heaven knows there is peril enough anyway,
 > with promoters and real estate men flooding Vermont with herds of
 > summer people to overrun the wild places and cover the hills with
-> cheap bungalows.\
+> cheap bungalows.
 >     I shall welcome further communication with
 > you, and shall try to send you that phonograph record and black stone
 > (which is so worn that photographs don’t shew much) by express if you
@@ -415,7 +414,7 @@ scholarly life.\
 > tampering with things around here. There is a sullen, furtive fellow
 > named Brown, on a farm near the village, who I think is their spy.
 > Little by little they are trying to cut me off from our world because
-> I know too much about their world.\
+> I know too much about their world.
 >      They have the most amazing way of finding
 > out what I do. You may not even get this letter. I think I shall have
 > to leave this part of the country and go to live with my son in San
@@ -433,7 +432,7 @@ scholarly life.\
 > about the fearful myths antedating the coming of man to the earth—the
 > Yog-Sothoth and Cthulhu cycles—which are hinted at in the
 > *Necronomicon.* I had access to a copy of that once, and hear that you
-> have one in your college library under lock and key.\
+> have one in your college library under lock and key.
 >     To conclude, Mr. Wilmarth, I think that
 > with our respective studies we can be very useful to each other. I
 > don’t wish to put you in any peril, and suppose I ought to warn you
@@ -445,7 +444,7 @@ scholarly life.\
 > hired help any more. They won’t stay because of the things that try to
 > get near the house at night, and that keep the dogs barking
 > continually. I am glad I didn’t get as deep as this into the business
-> while my wife was alive, for it would have driven her mad.\
+> while my wife was alive, for it would have driven her mad.
 >     Hoping that I am not bothering you unduly,
 > and that you will decide to get in touch with me rather than throw
 > this letter into the waste basket as a madman’s raving, I am\
@@ -717,45 +716,45 @@ playing the record itself over and over again. It is not a thing which
 one might readily forget!
 
 > (INDISTINGUISHABLE SOUNDS)
-> \
+> 
 > (A CULTIVATED MALE HUMAN VOICE)
-> \
+> 
 >     . . . is the Lord of the Woods, even
 > to . . . and the gifts of the men of Leng . . . so from the wells of
 > night to the gulfs of space, and from the gulfs of space to the wells
 > of night, ever the praises of Great Cthulhu, of Tsathoggua, and of Him
 > Who is not to be Named. Ever Their praises, and abundance to the Black
 > Goat of the Woods. Iä! Shub-Niggurath! The Goat with a Thousand
-> Young!\
->  \
+> Young!
+> 
 > (A BUZZING IMITATION OF HUMAN SPEECH)
-> \
+> 
 >  *Iä! Shub-Niggurath! The Black Goat of the Woods with a Thousand
-> Young!*\
->  \
+> Young!*
+> 
 > (HUMAN VOICE)
-> \
+> 
 >     And it has come to pass that the Lord of
 > the Woods, being . . . seven and nine, down the onyx steps . . .
 > (tri)butes to Him in the Gulf, Azathoth, He of Whom Thou hast taught
 > us marv(els) . . . on the wings of night out beyond space, out beyond
 > th . . . to That whereof Yuggoth is the youngest child, rolling alone
-> in black aether at the rim. . . .\
->  \
+> in black aether at the rim. . . .
+> 
 > (BUZZING VOICE)
-> \
+> 
 >     . . . go out among men and find the ways
 > thereof, that He in the Gulf may know. To Nyarlathotep, Mighty
 > Messenger, must all things be told. And He shall put on the semblance
 > of men, the waxen mask and the robe that hides, and come down from the
-> world of Seven Suns to mock. . . .\
->  \
+> world of Seven Suns to mock. . . .
+> 
 > (HUMAN VOICE)
-> \
+> 
 >  . . . (Nyarl)athotep, Great Messenger, bringer of strange joy to
 > Yuggoth through the void, Father of the Million Favoured Ones, Stalker
-> among. . . .\
->  \
+> among. . . .
+> 
 > (SPEECH CUT OFF BY END OF RECORD)
 
 Such were the words for which I was to listen
@@ -968,7 +967,7 @@ me? In replying to his letter I urged him to seek help, and hinted that
 I might take action myself if he did not. I spoke of visiting Vermont in
 person in spite of his wishes, and of helping him explain the situation
 to the proper authorities. In return, however, I received only a
-telegram from Bellows Falls which read thus:\
+telegram from Bellows Falls which read thus:
 
 > APPRECIATE YOUR POSITION BUT CAN DO NOTHING. 
 > TAKE NO ACTION YOURSELF
@@ -1026,7 +1025,7 @@ of its importance I believe I had better give it in full—as best I can
 do from memory of the shaky script. It ran substantially as follows:\
 
 > Monday.
-> Dear Wilmarth—\
+> Dear Wilmarth—
 >     A rather discouraging P.S. to my last. Last
 > night was thickly cloudy—though no rain—and not a bit of moonlight got
 > through. Things were pretty bad, and I think the end is getting near,
@@ -1051,7 +1050,7 @@ do from memory of the shaky script. It ran substantially as follows:\
 > broke, and am going to Brattleboro for more dogs. I guess the men at
 > the kennels think I am crazy. Will drop another note later. Suppose
 > I’ll be ready for moving in a week or two, though it nearly kills me
-> to think of it.\
+> to think of it.
 > Hastily—
 >     AKELEY
 
@@ -1059,14 +1058,14 @@ But this was not the only letter from Akeley
 to cross mine. On the next morning—September 6th—still another came;
 this time a frantic scrawl which utterly unnerved me and put me at a
 loss what to say or do next. Again I cannot do better than quote the
-text as faithfully as memory will let me.\
+text as faithfully as memory will let me.
 
 > Tuesday.
-> \
+> 
 >     Clouds didn’t break, so no moon again—and
 > going into the wane anyhow. I’d have the house wired for electricity
 > and put in a searchlight if I didn’t know they’d cut the cables as
-> fast as they could be mended.\
+> fast as they could be mended.
 >     I think I am going crazy. It may be that
 > all I have ever written you is a dream or madness. It was bad enough
 > before, but this time it is too much. *They talked to me last
@@ -1082,7 +1081,7 @@ text as faithfully as memory will let me.\
 > take me,* but I’m afraid it will be no use. My place is so far out
 > that they may come by day as well as by night before long. Six more
 > dogs killed, and I felt presences all along the wooded parts of the
-> road when I drove to Brattleboro today.\
+> road when I drove to Brattleboro today.
 >     It was a mistake for me to try to send you
 > that phonograph record and black stone. Better smash the record before
 > it’s too late. Will drop you another line tomorrow if I’m still here.
@@ -1092,7 +1091,7 @@ text as faithfully as memory will let me.\
 > where I ought to be safe, but I feel just as much a prisoner there as
 > at the house. And I seem to know that I couldn’t get much farther even
 > if I dropped everything and tried. It is horrible—don’t get mixed up
-> in this.\
+> in this.
 > Yrs—AKELEY
 
 I did not sleep at all the night after
@@ -1108,12 +1107,12 @@ the text, scrawled and blotted as it was in the course of a plainly
 frantic and hurried composition.
 
 > Wednesday.
-> \
->  W—\
+> 
+>  W—
 >      Yr letter came, but it’s no use to discuss
 > anything any more. I am fully resigned. Wonder that I have even enough
 > will power left to fight them off. Can’t escape even if I were willing
-> to give up everything and run. They’ll get me.\
+> to give up everything and run. They’ll get me.
 >     *Had a letter from them yesterday*—R.F.D.
 > man brought it while I was at Brattleboro. Typed and postmarked
 > Bellows Falls. Tells what they want to do with me—I can’t repeat it.
@@ -1122,7 +1121,7 @@ frantic and hurried composition.
 > up my will power—but everyone who would dare to come at all would call
 > me crazy unless there happened to be some proof. Couldn’t ask people
 > to come for no reason at all—am all out of touch with everybody and
-> have been for years. \
+> have been for years. 
 >     But I haven’t told you the worst, Wilmarth.
 > Brace up to read this, for it will give you a shock. I am telling the
 > truth, though. It is this—*I have seen and touched one of the things,
@@ -1139,17 +1138,17 @@ frantic and hurried composition.
 > was a great crab with a lot of pyramided fleshy rings or knots of
 > thick, ropy stuff covered with feelers where a man’s head would be.
 > That green sticky stuff is its blood or juice. And there are more of
-> them due on earth any minute.\
+> them due on earth any minute.
 >     Walter Brown is missing—hasn’t been seen
 > loafing around any of his usual corners in the villages hereabouts. I
 > must have got him with one of my shots, though the creatures always
-> seem to try to take their dead and wounded away.\
+> seem to try to take their dead and wounded away.
 >     Got into town this afternoon without any
 > trouble, but am afraid they’re beginning to hold off because they’re
 > sure of me. Am writing this in Brattleboro P.O. This may be goodbye—if
 > it is, write my son George Goodenough Akeley, 176 Pleasant St., San
 > Diego, Cal., *but don’t come up here.* Write the boy if you don’t hear
-> from me in a week, and watch the papers for news.\
+> from me in a week, and watch the papers for news.
 >     I’m going to play my last two cards now—if
 > I have the will power left. First to try poison gas on the things
 > (I’ve got the right chemicals and have fixed up masks for myself and
@@ -1158,13 +1157,13 @@ frantic and hurried composition.
 > *other creatures* would do. Perhaps I can get them to pay attention to
 > the prints around the house—they are faint, but I can find them every
 > morning. Suppose, though, police would say I faked them somehow; for
-> they all think I’m a queer character.\
+> they all think I’m a queer character.
 >     Must try to have a state policeman spend a
 > night here and see for himself—though it would be just like the
 > creatures to learn about it and hold off that night. They cut my wires
 > whenever I try to telephone in the night—the linemen think it is very
 > queer, and may testify for me if they don’t go and imagine I cut them
-> myself. I haven’t tried to keep them repaired for over a week now.\
+> myself. I haven’t tried to keep them repaired for over a week now.
 >     I could get some of the ignorant people to
 > testify for me about the reality of the horrors, but everybody laughs
 > at what they say, and anyway, they have shunned my place for so long
@@ -1174,7 +1173,7 @@ frantic and hurried composition.
 > If I only dared tell him how real it is! I think I’ll try to get him
 > to notice the prints, but he comes in the afternoon and they’re
 > usually about gone by that time. If I kept one by setting a box or pan
-> over it, he’d think surely it was a fake or joke.\
+> over it, he’d think surely it was a fake or joke.
 >     Wish I hadn’t gotten to be such a hermit,
 > so folks don’t drop around as they used to. I’ve never dared shew the
 > black stone or the kodak pictures, or play that record, to anybody but
@@ -1182,13 +1181,13 @@ frantic and hurried composition.
 > and do nothing but laugh. But I may yet try shewing the pictures. They
 > give those claw-prints clearly, even if the things that made them
 > can’t be photographed. What a shame nobody else saw that *thing* this
-> morning before it went to nothing!\
+> morning before it went to nothing!
 >     But I don’t know as I care. After what I’ve
 > been through, a madhouse is as good a place as any. The doctors can
 > help me make up my mind to get away from this house, and that is all
-> that will save me.\
+> that will save me.
 >     Write my son George if you don’t hear soon.
-> Goodbye, smash that record, and don’t mix up in this.\
+> Goodbye, smash that record, and don’t mix up in this.
 > Yrs—AKELEY
 
 The letter frankly plunged me into the
@@ -1226,17 +1225,17 @@ substance of the text, carefully transcribed from a memory in which I
 take some pride.
 
 >   ---------------------------
->   Townshend, Vermont,\
+>   Townshend, Vermont,
 >    Thursday, Sept. 6, 1928.
 >   ---------------------------
 >
-> My dear Wilmarth:—\
+> My dear Wilmarth:—
 >     It gives me great pleasure to be able to
 > set you at rest regarding all the silly things I’ve been writing you.
 > I say “silly”, although by that I mean my frightened attitude rather
 > than my descriptions of certain phenomena. Those phenomena are real
 > and important enough; my mistake had been in establishing an anomalous
-> attitude toward them.\
+> attitude toward them.
 >     I think I mentioned that my strange
 > visitors were beginning to communicate with me, and to attempt such
 > communication. Last night this exchange of speech became actual. In
@@ -1244,7 +1243,7 @@ take some pride.
 > those outside—a fellow-human, let me hasten to say. He told me much
 > that neither you nor I had even begun to guess, and shewed clearly how
 > totally we had misjudged and misinterpreted the purpose of the Outer
-> Ones in maintaining their secret colony on this planet.\
+> Ones in maintaining their secret colony on this planet.
 >     It seems that the evil legends about what
 > they have offered to men, and what they wish in connexion with the
 > earth, are wholly the result of an ignorant misconception of
@@ -1255,7 +1254,7 @@ take some pride.
 > morbid and shameful and ignominious is in reality awesome and
 > mind-expanding and even *glorious*—my previous estimate being merely a
 > phase of man’s eternal tendency to hate and fear and shrink from the
-> *utterly different.*\
+> *utterly different.*
 >     Now I regret the harm I have inflicted upon
 > these alien and incredible beings in the course of our nightly
 > skirmishes. If only I had consented to talk peacefully and reasonably
@@ -1272,7 +1271,7 @@ take some pride.
 > is against these aggressors—not against normal humanity—that the
 > drastic precautions of the Outer Ones are directed. Incidentally, I
 > learned that many of our lost letters were stolen not by the Outer
-> Ones but by the emissaries of this malign cult.\
+> Ones but by the emissaries of this malign cult.
 >     All that the Outer Ones wish of man is
 > peace and non-molestation and an increasing intellectual rapport. This
 > latter is absolutely necessary now that our inventions and devices are
@@ -1282,7 +1281,7 @@ take some pride.
 > and to have a few of mankind’s philosophic and scientific leaders know
 > more about them. With such an exchange of knowledge all perils will
 > pass, and a satisfactory *modus vivendi* be established. The very idea
-> of any attempt to *enslave* or *degrade* mankind is ridiculous.\
+> of any attempt to *enslave* or *degrade* mankind is ridiculous.
 >     As a beginning of this improved rapport,
 > the Outer Ones have naturally chosen me—whose knowledge of them is
 > already so considerable—as their primary interpreter on earth. Much
@@ -1295,7 +1294,7 @@ take some pride.
 > longer. Everything has reverted to normal, and the dogs will have no
 > further occupation. In place of terror I have been given a rich boon
 > of knowledge and intellectual adventure which few other mortals have
-> ever shared.\
+> ever shared.
 >     The Outer Beings are perhaps the most
 > marvellous organic things in or beyond all space and time—members of a
 > cosmos-wide race of which all other life-forms are merely degenerate
@@ -1309,7 +1308,7 @@ take some pride.
 > photographed on the *ordinary* camera films and plates of our known
 > universe, even though our eyes can see them. With proper knowledge,
 > however, any good chemist could make a photographic emulsion which
-> would record their images.\
+> would record their images.
 >     The genus is unique in its ability to
 > traverse the heatless and airless interstellar void in full corporeal
 > form, and some of its variants cannot do this without mechanical aid
@@ -1324,7 +1323,7 @@ take some pride.
 > usual means of discourse, though they have rudimentary vocal organs
 > which, after a slight operation (for surgery is an incredibly expert
 > and every-day thing among them), can roughly duplicate the speech of
-> such types of organism as still use speech.\
+> such types of organism as still use speech.
 >     Their main *immediate* abode is a still
 > undiscovered and almost lightless planet at the very edge of our solar
 > system—beyond Neptune, and the ninth in distance from the sun. It is,
@@ -1340,14 +1339,14 @@ take some pride.
 > the totality of all cosmic entity is only an atom in the genuine
 > infinity which is theirs. *And as much of this infinity as any human
 > brain can hold is eventually to be opened up to me, as it has been to
-> not more than fifty other men since the human race has existed.*\
+> not more than fifty other men since the human race has existed.*
 >     You will probably call this raving at
 > first, Wilmarth, but in time you will appreciate the titanic
 > opportunity I have stumbled upon. I want you to share as much of it as
 > is possible, and to that end must tell you thousands of things that
 > won’t go on paper. In the past I have warned you not to come to see
 > me. Now that all is safe, I take pleasure in rescinding that warning
-> and inviting you.\
+> and inviting you.
 >     Can’t you make a trip up here before your
 > college term opens? It would be marvellously delightful if you could.
 > Bring along the phonograph record and all my letters to you as
@@ -1356,35 +1355,34 @@ take some pride.
 > to have mislaid the negatives and my own prints in all this recent
 > excitement. But what a wealth of facts I have to add to all this
 > groping and tentative material—*and what a stupendous device I have to
-> supplement my additions!*\
+> supplement my additions!*
 >     Don’t hesitate—I am free from espionage
 > now, and you will not meet anything unnatural or disturbing. Just come
 > along and let my car meet you at the Brattleboro station—prepare to
 > stay as long as you can, and expect many an evening of discussion of
 > things beyond all human conjecture. Don’t tell anyone about it, of
-> course—for this matter must not get to the promiscuous public.\
+> course—for this matter must not get to the promiscuous public.
 >     The train service to Brattleboro is not
 > bad—you can get a time-table in Boston. Take the B. & M. to
 > Greenfield, and then change for the brief remainder of the way. I
 > suggest your taking the convenient 4:10 p.m.—standard—from Boston.
 > This gets into Greenfield at 7:35, and at 9:19 a train leaves there
 > which reaches Brattleboro at 10:01. That is week-days. Let me know the
-> date and I’ll have my car on hand at the station.\
+> date and I’ll have my car on hand at the station.
 >      Pardon this typed letter, but my
 > handwriting has grown shaky of late, as you know, and I don’t feel
 > equal to long stretches of script. I got this new Corona in
-> Brattleboro yesterday—it seems to work very well.\
+> Brattleboro yesterday—it seems to work very well.
 >      Awaiting word, and hoping to see you
 > shortly with the phonograph record and all my letters—and the kodak
-> prints—\
->   --------------------------
->   I am\
->    Yours in anticipation,\
+> prints—
+> 
+>   I am
+>    Yours in anticipation,
 >    HENRY W. AKELEY.
->   --------------------------
->
-> To Albert N. Wilmarth, Esq.,\
->     Miskatonic University,\
+> 
+> To Albert N. Wilmarth, Esq.,
+>     Miskatonic University,
 >         Arkham, Mass.
 
 The complexity of my emotions upon reading,
@@ -1469,7 +1467,7 @@ with my prospective host’s endorsement. His wire ran thus:\
 
 > ARRANGEMENT SATISFACTORY. WILL MEET 1:08 TRAIN WEDNESDAY. DON’T FORGET
 > RECORD AND LETTERS AND PRINTS. KEEP DESTINATION QUIET. EXPECT GREAT
-> REVELATIONS.\
+> REVELATIONS.
 > AKELEY.
 
 Receipt of this message in direct response to
@@ -2398,47 +2396,47 @@ the words as best I know how. It was from the speech-machine that I
 first picked up a few recognisable phrases.\
 
 > (THE SPEECH-MACHINE)
-> \
+> 
 >  “. . . brought it on myself . . . sent back
 > the letters and the record . . . end on it . . . taken in . . . seeing
 > and hearing . . . damn you . . . impersonal force, after all . . .
-> fresh, shiny cylinder . . . great God. . . .”\
->  \
+> fresh, shiny cylinder . . . great God. . . .”
+> 
 > (FIRST BUZZING VOICE)
-> \
+> 
 > “. . . time we stopped . . . small and
-> human . . . Akeley . . . brain . . . saying . . .”\
->  \
+> human . . . Akeley . . . brain . . . saying . . .”
+> 
 > (SECOND BUZZING VOICE)
-> \
+> 
 >  “. . . Nyarlathotep . . . Wilmarth . . .
-> records and letters . . . cheap imposture. . . .”\
->  \
+> records and letters . . . cheap imposture. . . .”
+> 
 > (NOYES)
-> \
+> 
 > “. . . (an unpronounceable word or name,
 > possibly *N’gah-Kthun*) . . . harmless . . . peace . . . couple of
-> weeks . . . theatrical . . . told you that before. . . .”\
->  \
+> weeks . . . theatrical . . . told you that before. . . .”
+> 
 > (FIRST BUZZING VOICE)
-> \
+> 
 >  “. . . no reason . . . original plan . . .
 > effects . . . Noyes can watch . . . Round Hill . . . fresh
-> cylinder . . . Noyes’s car. . . .”\
->  \
+> cylinder . . . Noyes’s car. . . .”
+> 
 > (NOYES)
-> \
+> 
 > “. . . well . . . all yours . . . down
-> here . . . rest . . . place. . . .”\
->  \
+> here . . . rest . . . place. . . .”
+> 
 > (SEVERAL VOICES AT ONCE IN INDISTINGUISHABLE SPEECH)
-> \
+> 
 > (MANY FOOTSTEPS, INCLUDING THE PECULIAR LOOSE STIRRING OR CLATTERING)
-> \
+> 
 > (A CURIOUS SORT OF FLAPPING SOUND)
-> \
+> 
 > (THE SOUND OF AN AUTOMOBILE STARTING AND RECEDING)
-> \
+> 
 > (SILENCE)
 
 That is the substance of what my ears brought
