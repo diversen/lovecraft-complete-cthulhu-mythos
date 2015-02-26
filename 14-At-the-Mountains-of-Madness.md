@@ -184,11 +184,11 @@ snowy slope; remarking that this mountain, discovered in 1840, had
 undoubtedly been the source of Poe’s image when he wrote seven years
 later of
 
-  “—the lavas that restlessly roll
-   Their sulphurous currents down Yaanek
-   In the ultimate climes of the pole—
-   That groan as they roll down Mount Yaanek
-   In the realms of the boreal pole.”
+> “—the lavas that restlessly roll
+> Their sulphurous currents down Yaanek
+> In the ultimate climes of the pole—
+> That groan as they roll down Mount Yaanek
+> In the realms of the boreal pole.”
 
  Danforth was a great reader of bizarre material, and had talked a good
 deal of Poe. I was interested myself because of the antarctic scene of
@@ -640,7 +640,9 @@ operator McTighe translated them from his pencil shorthand.
 > thousand million years ago, when planet was young and recently
 > uninhabitable for any life-forms or normal protoplasmic structure.
 > Question arises when, where, and how development took place.”
+> 
 > ————————
+> 
 > “Later. Examining certain skeletal fragments
 > of large land and marine saurians and primitive mammals, find singular
 > local wounds or injuries to bony structure not attributable to any
@@ -649,7 +651,9 @@ operator McTighe translated them from his pencil shorthand.
 > or two cases of cleanly severed bone. Not many specimens affected. Am
 > sending to camp for electric torches. Will extend search area
 > underground by hacking away stalactites.”
+> 
 > ————————
+> 
 > “Still later. Have found peculiar soapstone
 > fragment about six inches across and an inch and a half thick, wholly
 > unlike any visible local formation. Greenish, but no evidences to
@@ -663,7 +667,9 @@ operator McTighe translated them from his pencil shorthand.
 > uneasy as we work, and seem to hate this soapstone. Must see if it has
 > any peculiar odour. Will report again when Mills gets back with light
 > and we start on underground area.”
+> 
 > ————————
+> 
 > “10:15 P.M. Important discovery. Orrendorf
 > and Watkins, working underground at 9:45 with light, found monstrous
 > barrel-shaped fossil of wholly unknown nature; probably vegetable
@@ -688,7 +694,9 @@ operator McTighe translated them from his pencil shorthand.
 > trouble with dogs. They can’t endure the new specimen, and would
 > probably tear it to pieces if we didn’t keep it at a distance from
 > them.”
+> 
 > ————————
+> 
 > “11:30 P.M. Attention, Dyer, Pabodie,
 > Douglas. Matter of highest—I might say transcendent—importance.
 > *Arkham* must relay to Kingsport Head Station at once. Strange barrel
@@ -701,6 +709,7 @@ operator McTighe translated them from his pencil shorthand.
 > appendages. Have brought all to surface, leading off dogs to distance.
 > They cannot stand the things. Give close attention to description and
 > repeat back for accuracy. Papers must get this right.
+> 
 >  “Objects are eight feet long all over.
 > Six-foot five-ridged barrel torso 3.5 feet central diameter, 1 foot
 > end diameters. Dark grey, flexible, and infinitely tough. Seven-foot
@@ -714,6 +723,7 @@ operator McTighe translated them from his pencil shorthand.
 > diameter branch after 6 inches into five sub-stalks, each of which
 > branches after 8 inches into five small, tapering tentacles or
 > tendrils, giving each stalk a total of 25 tentacles.
+> 
 >  “At top of torso blunt bulbous neck of
 > lighter grey with gill-like suggestions holds yellowish five-pointed
 > starfish-shaped apparent head covered with three-inch wiry cilia of
@@ -729,6 +739,7 @@ operator McTighe translated them from his pencil shorthand.
 > mouths. All these tubes, cilia, and points of starfish-head found
 > folded tightly down; tubes and points clinging to bulbous neck and
 > torso. Flexibility surprising despite vast toughness.
+> 
 >  “At bottom of torso rough but dissimilarly
 > functioning counterparts of head arrangements exist. Bulbous
 > light-grey pseudo-neck, without gill suggestions, holds greenish
@@ -745,6 +756,7 @@ operator McTighe translated them from his pencil shorthand.
 > otherwise. When moved, display suggestions of exaggerated muscularity.
 > As found, all these projections tightly folded over pseudo-neck and
 > end of torso, corresponding to projections at other end.
+> 
 >  “Cannot yet assign positively to animal or
 > vegetable kingdom, but odds now favour animal. Probably represents
 > incredibly advanced evolution of radiata without loss of certain
@@ -755,6 +767,7 @@ operator McTighe translated them from his pencil shorthand.
 > up-and-down structure rather than animal’s fore-and-aft structure.
 > Fabulously early date of evolution, preceding even simplest Archaean
 > protozoa hitherto known, baffles all conjecture as to origin.
+> 
 >  “Complete specimens have such uncanny
 > resemblance to certain creatures of primal myth that suggestion of
 > ancient existence outside antarctic becomes inevitable. Dyer and
@@ -765,6 +778,7 @@ operator McTighe translated them from his pencil shorthand.
 > imaginative treatment of very ancient tropical radiata. Also like
 > prehistoric folklore things Wilmarth has spoken of—Cthulhu cult
 > appendages, etc.
+> 
 >  “Vast field of study opened. Deposits
 > probably of late Cretaceous or early Eocene period, judging from
 > associated specimens. Massive stalagmites deposited above them. Hard
@@ -940,10 +954,8 @@ retiring I despatched a final message to the *Arkham* with instructions
 about toning down the day’s news for the outside world, since the full
 details seemed radical enough to rouse a wave of incredulity until
 further substantiated.
- 
 
 III.
-
 
  None of us, I imagine, slept very heavily or continuously that morning;
 for both the excitement of Lake’s discovery and the mounting fury of the
@@ -1302,9 +1314,7 @@ the antarctic and melt and bore till they bring up that which may end
 the world we know. So I must break through all reticences at last—even
 about that ultimate nameless thing beyond the mountains of madness.
  
-
 IV.
-
 
  It is only with vast hesitancy and repugnance that I let my mind go
 back to Lake’s camp and what we really found there—and to that other
@@ -1605,10 +1615,8 @@ the noise of the unmuffled engines, exchanged eloquent glances. And
 then, having gained those last few feet, we did indeed stare across the
 momentous divide and over the unsampled secrets of an elder and utterly
 alien earth.
- 
 
 V.
-
 
  I think that both of us simultaneously cried out in mixed awe, wonder,
 terror, and disbelief in our own senses as we finally cleared the pass
@@ -2041,10 +2049,8 @@ flood from the river, or from the bursting of some ancient glacial dam
 in the great range, had helped to create the special state now
 observable. Imagination could conceive almost anything in connexion with
 this place.
- 
 
 VI.
-
 
  It would be cumbrous to give a detailed, consecutive account of our
 wanderings inside that cavernous, aeon-dead honeycomb of primal masonry;
@@ -2293,10 +2299,8 @@ possible information, and the issuance of that warning is a prime
 necessity. Certain lingering influences in that unknown antarctic world
 of disordered time and alien natural law make it imperative that further
 exploration be discouraged.
- 
 
 VII.
-
 
  The full story, so far as deciphered, will shortly appear in an
 official bulletin of Miskatonic University. Here I shall sketch only the
@@ -2628,10 +2632,8 @@ direction beyond the farthest limits of our aërial survey—there were
 reputed to be preserved certain sacred stones forming part of the first
 sea-bottom city, which were thrust up to light after long epochs in the
 course of the general crumpling of strata.
- 
 
 VIII.
-
 
  Naturally, Danforth and I studied with especial interest and a
 peculiarly personal sense of awe everything pertaining to the immediate
@@ -2917,9 +2919,7 @@ race to have. . . . Danforth and I had seen a good deal in the last few
 hours, and were prepared to believe and keep silent about many appalling
 and incredible secrets of primal Nature.
  
-
 IX.
-
 
  I have said that our study of the decadent sculptures brought about a
 change in our immediate objective. This of course had to do with the
@@ -3274,10 +3274,8 @@ specimens; for there were two here, both stiffly frozen, perfectly
 preserved, patched with adhesive plaster where some wounds around the
 neck had occurred, and wrapped with patent care to prevent further
 damage. They were the bodies of young Gedney and the missing dog.
- 
 
 X.
-
 
  Many people will probably judge us callous as well as mad for thinking
 about the northward tunnel and the abyss so soon after our sombre
@@ -3854,10 +3852,8 @@ daemoniac shoggoths—given life, thought, and plastic organ patterns
 solely by the Old Ones, and having no language save that which the
 dot-groups expressed—*had likewise no voice save the imitated accents of
 their bygone masters*.
- 
 
 XII.
-
 
  Danforth and I have recollections of emerging into the great sculptured
 hemisphere and of threading our back trail through the Cyclopean rooms
@@ -4051,4 +4047,3 @@ At the time his shrieks were confined to the
 repetition of a single mad word of all too obvious source:
 
 *“Tekeli-li! Tekeli-li!”*
-
