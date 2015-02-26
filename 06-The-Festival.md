@@ -2,10 +2,9 @@
 
 **By H. P. Lovecraft**
 
-  ------------------------------------------------------------------------
-  “Efficiunt Daemones, ut quae non sunt, sic tamen\
-  quasi sint, conspicienda hominibus exhibeant.”\
-  *—Lactantius.*
+> “Efficiunt Daemones, ut quae non sunt, sic tamen
+> quasi sint, conspicienda hominibus exhibeant.”
+> *—Lactantius.*
   ------------------------------------------------------------------------
 
 I was far from home, and the spell of the eastern sea was upon me. In
@@ -330,15 +329,15 @@ remind me of it; but my dreams are filled with terror, because of
 phrases I dare not quote. I dare quote only one paragraph, put into such
 English as I can make from the awkward Low Latin.
 
-> “The nethermost caverns,” wrote the mad Arab, “are not for the\
-> fathoming of eyes that see; for their marvels are strange and\
+> “The nethermost caverns,” wrote the mad Arab, “are not for the
+> fathoming of eyes that see; for their marvels are strange and
 > terrific. Cursed the ground where dead thoughts live new and oddly
-> bodied, and evil the mind that is held by no head. Wisely did Ibn\
-> Schacabao say, that happy is the tomb where no wizard hath lain, and\
-> happy the town at night whose wizards are all ashes. For it is of old\
-> rumour that the soul of the devil-bought hastes not from his charnel\
-> clay, but fats and instructs *the very worm that gnaws;* till out of\
-> corruption horrid life springs, and the dull scavengers of earth wax\
-> crafty to vex it and swell monstrous to plague it. Great holes\
-> secretly are digged where earth’s pores ought to suffice, and things\
+> bodied, and evil the mind that is held by no head. Wisely did Ibn
+> Schacabao say, that happy is the tomb where no wizard hath lain, and
+> happy the town at night whose wizards are all ashes. For it is of old
+> rumour that the soul of the devil-bought hastes not from his charnel
+> clay, but fats and instructs *the very worm that gnaws;* till out of
+> corruption horrid life springs, and the dull scavengers of earth wax
+> crafty to vex it and swell monstrous to plague it. Great holes
+> secretly are digged where earth’s pores ought to suffice, and things
 > have learnt to walk that ought to crawl.”
