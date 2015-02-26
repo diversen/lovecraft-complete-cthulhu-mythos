@@ -165,21 +165,21 @@ some tribe whose last descendant had perished eras before the first
 ancestor of the Piltdown or Neanderthal Man was born. Awestruck at this
 unexpected glimpse into a past beyond the conception of the most daring
 anthropologist, I stood musing whilst the moon cast queer reflections on
-the silent channel before me.\
+the silent channel before me.
 
 Then suddenly I saw it. With only a slight
 churning to mark its rise to the surface, the thing slid into view above
 the dark waters. Vast, Polyphemus-like, and loathsome, it darted like a
 stupendous monster of nightmares to the monolith, about which it flung
 its gigantic scaly arms, the while it bowed its hideous head and gave
-vent to certain measured sounds. I think I went mad then.\
+vent to certain measured sounds. I think I went mad then.
 
 Of my frantic ascent of the slope and cliff,
 and of my delirious journey back to the stranded boat, I remember
 little. I believe I sang a great deal, and laughed oddly when I was
 unable to sing. I have indistinct recollections of a great storm some
 time after I reached the boat; at any rate, I know that I heard peals of
-thunder and other tones which Nature utters only in her wildest moods.\
+thunder and other tones which Nature utters only in her wildest moods.
 
 When I came out of the shadows I was in a San
 Francisco hospital; brought thither by the captain of the American ship
@@ -213,5 +213,3 @@ amidst universal pandemonium.
 The end is near. I hear a noise at the door,
 as of some immense slippery body lumbering against it. It shall not find
 me. God, *that hand!* The window! The window!
- 
-
