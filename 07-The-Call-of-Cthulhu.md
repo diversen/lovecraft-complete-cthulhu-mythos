@@ -801,13 +801,13 @@ immediate action. It read as follows:
   Rescued Seaman Refuses\
   Particulars of Strange Experience.\
   Odd Idol Found in His Possession. Inquiry\
-  to Follow.*\
+  to Follow.*
 
   The Morrison Co.’s freighter *Vigilant,* bound from Valparaiso,\
   arrived this morning at its wharf in Darling Harbour, having in tow\
   the battled and disabled but heavily armed steam yacht *Alert* of\
   Dunedin, N. Z., which was sighted April 12th in S. Latitude 34° 21′,\
-  W. Longitude 152° 17′ with one living and one dead man aboard.\
+  W. Longitude 152° 17′ with one living and one dead man aboard.
 
   The *Vigilant* left Valparaiso March 25th,\
   and on April 2nd was driven considerably south of her course by\
@@ -819,7 +819,8 @@ immediate action. It read as follows:
   height, regarding whose nature authorities at Sydney University, the\
   Royal Society, and the Museum in College Street all profess complete\
   bafflement, and which the survivor says he found in the cabin of the\
-  yacht, in a small carved shrine of common pattern.\
+  yacht, in a small carved shrine of common pattern.
+
   This man, after recovering his senses, told\
   an exceedingly strange story of piracy and slaughter. He is Gustaf\
   Johansen, a Norwegian of some intelligence, and had been second mate\
@@ -837,7 +838,8 @@ immediate action. It read as follows:
   alongside their enemy and board her, grappling with the savage crew on\
   the yacht’s deck, and being forced to kill them all, the number being\
   slightly superior, because of their particularly abhorrent and\
-  desperate though rather clumsy mode of fighting.\
+  desperate though rather clumsy mode of fighting.
+
   Three of the *Emma*’s men, including Capt.\
   Collins and First Mate Green, were killed; and the remaining eight\
   under Second Mate Johansen proceeded to navigate the captured yacht,\
@@ -861,7 +863,7 @@ immediate action. It read as follows:
   reputation, and Johansen is described as a sober and worthy man. The\
   admiralty will institute an inquiry on the whole matter beginning\
   tomorrow, at which every effort will be made to induce Johansen to\
-  speak more freely than he has done hitherto.\
+  speak more freely than he has done hitherto.
   ----------------------------------------------------------
 
 This was all, together with the picture of the
