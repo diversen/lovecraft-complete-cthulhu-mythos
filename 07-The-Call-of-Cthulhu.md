@@ -492,8 +492,7 @@ hell. Now and then the less organised ululation would cease, and from
 what seemed a well-drilled chorus of hoarse voices would rise in
 sing-song chant that hideous phrase or ritual:
 
-*“Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl
-fhtagn.”*
+> *“Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn.”*
 
  Then the men, having reached a spot where the trees were thinner, came
 suddenly in sight of the spectacle itself. Four of them reeled, one

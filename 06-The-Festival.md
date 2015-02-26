@@ -330,7 +330,6 @@ remind me of it; but my dreams are filled with terror, because of
 phrases I dare not quote. I dare quote only one paragraph, put into such
 English as I can make from the awkward Low Latin.
 
-  ------------------------------------------------------------------------
   “The nethermost caverns,” wrote the mad Arab, “are not for the\
   fathoming of eyes that see; for their marvels are strange and\
   terrific. Cursed the ground where dead thoughts live new and oddly
@@ -342,5 +341,4 @@ English as I can make from the awkward Low Latin.
   corruption horrid life springs, and the dull scavengers of earth wax\
   crafty to vex it and swell monstrous to plague it. Great holes\
   secretly are digged where earth’s pores ought to suffice, and things\
-  have learnt to walk that ought to crawl.”\
-  ------------------------------------------------------------------------
+  have learnt to walk that ought to crawl.”
