@@ -3,9 +3,9 @@
 **By H. P. Lovecraft**
 
 
-  “Efficiunt Daemones, ut quae non sunt, sic tamen\
-  quasi sint, conspicienda hominibus exhibeant.”\
-  *—Lactantius.*\
+>  “Efficiunt Daemones, ut quae non sunt, sic tamen\
+> quasi sint, conspicienda hominibus exhibeant.”\
+> *—Lactantius.*\
 
 
 I was far from home, and the spell of the eastern sea was upon me. In
