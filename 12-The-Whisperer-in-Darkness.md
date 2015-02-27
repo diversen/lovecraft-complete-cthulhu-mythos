@@ -2436,10 +2436,10 @@ that such a sound could never penetrate the solid flooring of my room.
 I will try to set down some of the few
 disjointed words and other sounds I caught, labelling the speakers of
 the words as best I know how. It was from the speech-machine that I
-first picked up a few recognisable phrases.\
+first picked up a few recognisable phrases.
 
-> (THE SPEECH-MACHINE)
-> 
+> (THE SPEECH-MACHINE)  
+>   
 >  “. . . brought it on myself . . . sent back
 > the letters and the record . . . end on it . . . taken in . . . seeing
 > and hearing . . . damn you . . . impersonal force, after all . . .
