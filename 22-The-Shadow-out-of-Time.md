@@ -1335,14 +1335,14 @@ curvilinear designs and occasional hieroglyphs whose significance had
 become so hideous to me. But here is the letter, which speaks for
 itself:
 
->  49, Dampier Str.,
->  Pilbarra, W. Australia,
->  18 May, 1934.
+>  49, Dampier Str.,  
+>  Pilbarra, W. Australia,  
+>  18 May, 1934.  
 > 
-> Prof. N. W. Peaslee,
-> c/o Am. Psychological Society,
-> 30, E. 41st Str.,
-> N. Y. City, U.S.A.
+> Prof. N. W. Peaslee,  
+> c/o Am. Psychological Society,  
+> 30, E. 41st Str.,  
+> N. Y. City, U.S.A.  
 > 
 > My dear Sir:—
 > 
