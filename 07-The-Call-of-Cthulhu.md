@@ -764,7 +764,7 @@ to sinister ears? I think Professor Angell died because he knew too
 much, or because he was likely to learn too much. Whether I shall go as
 he did remains to be seen, for I have learned much now.
 
-III. 
+III.
 
 *The Madness from the Sea.*
 
