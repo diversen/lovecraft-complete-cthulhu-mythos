@@ -718,7 +718,7 @@ for belief in incredible revelations to follow:
 
 > RELACIÓN DE PÁNFILO DE ZAMACONA Y NUÑEZ, HIDALGO DE LUARCA EN
 > ASTURIAS, TOCANTE AL MUNDO SOTERRÁNEO DE XINAIÁN, A. D. MDXLV
-
+> 
 > En el nombre de la santísima Trinidad, Padre, Hijo, y Espíritu-Santo,
 > tres personas distintas y un solo. Dios verdadero, y de la santísima
 > Virgen muestra Señora, YO, PÁNFILO DE ZAMACONA, HIJO DE PEDRO GUZMAN Y

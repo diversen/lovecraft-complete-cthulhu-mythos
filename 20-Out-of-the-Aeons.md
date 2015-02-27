@@ -1,6 +1,6 @@
 # Out of the Aeons
 
-** By H. P. Lovecraft and Hazel Heald**
+**By H. P. Lovecraft and Hazel Heald**
 
 > (Ms. found among the effects of the late Richard H. Johnson, Ph.D.,
 > curator of the Cabot Museum of Archaeology, Boston, Mass.)
