@@ -292,7 +292,7 @@ envisage the callous rationalism with which I set them aside. But I was
 then convinced that young Wilcox had known of the older matters
 mentioned by the professor.
 
-II. 
+II.
 
 *The Tale of Inspector Legrasse.*
 
