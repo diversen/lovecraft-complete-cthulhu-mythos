@@ -64,11 +64,12 @@ novel *The King in Yellow*.
 
 *Chronology*
 
-> *Al Azif* written circa 730 A.D. at Damascus by Abdul Alhazred
-> Tr. to Greek 950 A.D. as *Necronomicon* by Theodorus Philetas
-> Burnt by Patriarch Michael 1050 (i.e., Greek text). Arabic text now lost.
-> Olaus translates Gr. to Latin 1228
-> 1232 Latin ed. (and Gr.) suppr. by Pope Gregory IX
-> 14... Black-letter printed edition (Germany)
-> 15... Gr. text printed in Italy
-> 16... Spanish reprint of Latin text
+> *Al Azif* written circa 730 A.D. at Damascus by Abdul Alhazred  
+> Tr. to Greek 950 A.D. as *Necronomicon* by Theodorus Philetas  
+> Burnt by Patriarch Michael 1050 (i.e., Greek text). Arabic text now lost.  
+> Olaus translates Gr. to Latin 1228  
+> 1232 Latin ed. (and Gr.) suppr. by Pope Gregory IX  
+> 14... Black-letter printed edition (Germany)  
+> 15... Gr. text printed in Italy  
+> 16... Spanish reprint of Latin text  
+
