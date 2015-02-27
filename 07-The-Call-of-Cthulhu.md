@@ -646,7 +646,7 @@ deathless Chinamen said that there were double meanings in the
 *Necronomicon* of the mad Arab Abdul Alhazred which the initiated might
 read as they chose, especially the much-discussed couplet:
 
-> *“That is not dead which can eternal lie,
+> *“That is not dead which can eternal lie,\
 > And with strange aeons even death may die.”*
 
 Legrasse, deeply impressed and not a little
