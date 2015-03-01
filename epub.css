@@ -23,7 +23,7 @@ blockquote p {
     margin-bottom:1.0em;
     text-indent:0 !important;
     font-family: helvetica, sans-serif;
-
+    font-size: 90%
 }
 
 span.first {
