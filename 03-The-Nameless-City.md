@@ -1,7 +1,10 @@
 # The Nameless City
 
+<span class="center">
 **By H. P. Lovecraft**
+</span>
 
+<span class="first">
 When I drew nigh the nameless city I knew it was accursed. I was
 travelling in a parched and terrible valley under the moon, and afar I
 saw it protruding uncannily above the sands as parts of a corpse may
@@ -10,6 +13,7 @@ this hoary survivor of the deluge, this great-grandmother of the eldest
 pyramid; and a viewless aura repelled me and bade me retreat from
 antique and sinister secrets that no man should see, and no man else had
 ever dared to see.
+</span>
 
 Remote in the desert of Araby lies the
 nameless city, crumbling and inarticulate, its low walls nearly hidden

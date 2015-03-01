@@ -21,7 +21,7 @@ span.center {
 
 blockquote p {
     margin-bottom:1.0em;
-
+    text-indent:0 !important;
 }
 
 span.first {
