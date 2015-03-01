@@ -19,6 +19,12 @@ span.center {
     text-indent:0 !important;
 }
 
+blockquote {
+    text-align: center !important; 
+    margin-bottom:1.0em;
+    text-indent:0 !important;
+}
+
 span.first {
     display: block;
     margin-top:1.0em;
@@ -48,9 +54,18 @@ p {text-indent: .3in;
 /* Here we make our headings centered
 We've also made the headings the same font as the body text */
 
- h1 { text-align: center;
-    font-family:"Times New Roman"; }
-h2 { text-align: center;
-    font-family:"Times New Roman"; }
-h3 { text-align: center;
-    font-family:"Times New Roman"; }
+/* This defines styles and classes used in the book */
+body { margin: 5%; text-align: justify; font-size: medium; }
+code { font-family: monospace; }
+h1 { text-align: center; }
+h2 { text-align: center; }
+h3 { text-align: center; }
+h4 { text-align: center; }
+h5 { text-align: center; }
+h6 { text-align: center; }
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+
