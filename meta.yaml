@@ -16,9 +16,9 @@ date: '2015-01-27'
 # pandoc format arguments
 # because of security these options are limited
 format-arguments:
-    pdf: -S --toc
+    # pdf: -S --toc
     html: -S --chapters --toc
-    epub: -S --toc
+    epub: -S --toc  --epub-stylesheet=epub.css
     mobi: ok
 ignore-files:
     - README.md

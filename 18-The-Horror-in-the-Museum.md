@@ -1,4 +1,5 @@
 # The Horror in the Museum
+
 **By H. P. Lovecraft and Hazel Heald**
 
 It was languid curiosity which first brought Stephen Jones to Rogers’

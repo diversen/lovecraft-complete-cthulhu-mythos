@@ -1,5 +1,6 @@
 # The Dreams in the Witch House
-** By H. P. Lovecraft**
+
+**By H. P. Lovecraft**
 
 Whether the dreams brought on the fever or the fever brought on the
 dreams Walter Gilman did not know. Behind everything crouched the
