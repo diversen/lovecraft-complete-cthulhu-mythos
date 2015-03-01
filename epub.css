@@ -19,7 +19,7 @@ span.center {
     text-indent:0 !important;
 }
 
-blockquote {
+blockquote p {
     text-align: center !important; 
     margin-bottom:1.0em;
     text-indent:0 !important;
