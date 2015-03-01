@@ -12,7 +12,7 @@ The margin settings get rid of the white space between paragraphs, again so it l
 The text-align line justifies the margins. If you don't want them justified, change it to left, or remove that line
 You don't have to specify a font, but you can */
 
-p span.first {
+div.first {
 margin-top:1.0em;
 margin-bottom:0.0em;
 text-align:justify;
