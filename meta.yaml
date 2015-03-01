@@ -13,6 +13,7 @@ tags: [lovecraft]
 lang: en
 date: '2015-01-27'
 epub-stylesheet: epub.css
+stylesheet: epub.css
 
 # pandoc format arguments
 # because of security these options are limited
