@@ -12,6 +12,7 @@ tags: [lovecraft]
 # cover-image: "images/cover.png"
 lang: en
 date: '2015-01-27'
+stylesheet: epub.css
 
 # pandoc format arguments
 # because of security these options are limited
