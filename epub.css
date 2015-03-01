@@ -20,10 +20,7 @@ text-align:justify;
 }
 
 .first {
-margin-top:0.5em;
-margin-bottom: 0.0em;
-text-indent:-1.5em;
-text-align:justify;
+display:block;
 }
 
 /*

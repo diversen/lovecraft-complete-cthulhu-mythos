@@ -4,7 +4,7 @@
 
 **By H. P. Lovecraft**
 
-<div></div>
+<div class="first"></div>
 
 I am writing this under an appreciable mental strain, since by tonight I
 shall be no more. Penniless, and at the end of my supply of the drug
@@ -26,7 +26,7 @@ indeed, was the discipline of our captors, that five days after we were
 taken I managed to escape alone in a small boat with water and
 provisions for a good length of time.
 
-<span></span>
+<span class="first"></span>
 
 When I finally found myself adrift and free,
 I had but little idea of my surroundings. Never a competent navigator, I
