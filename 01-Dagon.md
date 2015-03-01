@@ -7,6 +7,10 @@
 test
 </span>
 
+<script>
+alert('hello');
+</script>
+
 I am writing this under an appreciable mental strain, since by tonight I
 shall be no more. Penniless, and at the end of my supply of the drug
 which alone makes life endurable, I can bear the torture no longer; and
