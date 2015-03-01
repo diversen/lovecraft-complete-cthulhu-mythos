@@ -20,6 +20,9 @@ text-align:justify;
 }
 
 .first {
+margin-top:1.0em;
+margin-bottom:0.0em;
+text-align:justify;
     text-indent:0 !important;
 }
 
