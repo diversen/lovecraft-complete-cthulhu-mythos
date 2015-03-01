@@ -12,6 +12,10 @@ The margin settings get rid of the white space between paragraphs, again so it l
 The text-align line justifies the margins. If you don't want them justified, change it to left, or remove that line
 You don't have to specify a font, but you can */
 
+p:first-child {
+    background-color: yellow;
+} 
+
 p {text-indent: .3in;
     margin-left:0;
     margin-right:0;
