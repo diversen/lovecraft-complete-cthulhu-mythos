@@ -20,9 +20,8 @@ span.center {
 }
 
 blockquote p {
-    text-align: center !important; 
     margin-bottom:1.0em;
-    text-indent:0 !important;
+
 }
 
 span.first {
