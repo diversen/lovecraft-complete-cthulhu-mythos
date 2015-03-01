@@ -18,7 +18,7 @@ stylesheet: epub.css
 # pandoc format arguments
 # because of security these options are limited
 format-arguments:
-    # pdf: -S --toc
+    pdf: -S --toc
     html: -S --chapters --toc
     epub: -S --toc --toc-depth=1
     mobi: ok
