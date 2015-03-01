@@ -20,7 +20,7 @@ stylesheet: epub.css
 format-arguments:
     # pdf: -S --toc
     html: -S --chapters --toc
-    epub: -S --toc 
+    epub: -S --toc --toc-depth=1
     mobi: ok
 ignore-files:
     - README.md
