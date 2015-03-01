@@ -22,10 +22,8 @@ tribes shun it without wholly knowing why. It was of this place that
 Abdul Alhazred the mad poet dreamed on the night before he sang his
 unexplainable couplet:
 
-  ---------------------------------------------
-  “That is not dead which can eternal lie,\
-  And with strange aeons even death may die.”
-  ---------------------------------------------
+> “That is not dead which can eternal lie,  
+> And with strange aeons even death may die.”  
 
 I should have known that the Arabs had good
 reason for shunning the nameless city, the city told of in strange tales
