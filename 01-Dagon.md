@@ -1,10 +1,6 @@
 # Dagon 
 
-<div></div>
-
 **By H. P. Lovecraft**
-
-<div class="first"></div>
 
 I am writing this under an appreciable mental strain, since by tonight I
 shall be no more. Penniless, and at the end of my supply of the drug
@@ -15,6 +11,7 @@ degenerate. When you have read these hastily scrawled pages you may
 guess, though never fully realise, why it is that I must have
 forgetfulness or death.
 
+<span class="first">
 It was in one of the most open and least
 frequented parts of the broad Pacific that the packet of which I was
 supercargo fell a victim to the German sea-raider. The great war was
@@ -25,8 +22,7 @@ fairness and consideration due us as naval prisoners. So liberal,
 indeed, was the discipline of our captors, that five days after we were
 taken I managed to escape alone in a small boat with water and
 provisions for a good length of time.
-
-<span class="first"></span>
+</span>
 
 When I finally found myself adrift and free,
 I had but little idea of my surroundings. Never a competent navigator, I
