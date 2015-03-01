@@ -13,7 +13,7 @@ The text-align line justifies the margins. If you don't want them justified, cha
 You don't have to specify a font, but you can */
 
 span.center { 
-    text-align: center; 
+    text-align: center !important; 
 }
 
 span.first {
