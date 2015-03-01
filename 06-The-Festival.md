@@ -1,13 +1,14 @@
 # The Festival
 
+<span class="center">
 **By H. P. Lovecraft**
-
+</span>
 
 >  “Efficiunt Daemones, ut quae non sunt, sic tamen\
 > quasi sint, conspicienda hominibus exhibeant.”\
 > *—Lactantius.*\
 
-
+<span class="first">
 I was far from home, and the spell of the eastern sea was upon me. In
 the twilight I heard it pounding on the rocks, and I knew it lay just
 over the hill where the twisting willows writhed against the clearing
@@ -16,6 +17,7 @@ to the old town beyond, I pushed on through the shallow, new-fallen snow
 along the road that soared lonely up to where Aldebaran twinkled among
 the trees; on toward the very ancient town I had never seen but often
 dreamed of.
+</span>
 
 It was the Yuletide, that men call Christmas
 though they know in their hearts it is older than Bethlehem and Babylon,
