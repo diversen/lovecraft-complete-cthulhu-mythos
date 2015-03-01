@@ -1,0 +1,27 @@
+---
+title: 'H.P. Lovecraft: The Complete Cthulhu Mythos'
+Subtitle: > 
+    H.P. Lovecraft: The Complete Cthulhu Mythos
+subject: The Complete Cthulhu Mythos
+author:
+- H.P. Lovecraft
+keywords: ebooks, lovecraft, Cthulhu mythos
+rights: Creative Commons Non-Commercial Share Alike 3.0
+language: en-US
+tags: [lovecraft]
+# cover-image: "images/cover.png"
+lang: en
+date: '2015-01-27'
+epub-stylesheet: epub.css
+# stylesheet: epub.css
+
+# pandoc format arguments
+# because of security these options are limited
+format-arguments:
+    # pdf: -S --toc
+    html: -S --chapters --toc
+    epub: -S --toc  --epub-stylesheet=epub.css
+    mobi: ok
+ignore-files:
+    - README.md
+...
