@@ -22,7 +22,8 @@ span.center {
 blockquote  p {
     margin-bottom:1.0em;
     text-indent:0em !important;
-    font-size: 90%
+    font-size: 90%;
+    margin: 10%;
     
 }
 
