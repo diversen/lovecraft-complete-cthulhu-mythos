@@ -22,8 +22,8 @@ span.center {
 blockquote p {
     margin-bottom:1.0em;
     text-indent:0 !important;
-    font: 14px/22px normal helvetica, sans-serif;
-    border-left: 3px solid #ccc;
+    font-family: helvetica, sans-serif;
+
 }
 
 span.first {
