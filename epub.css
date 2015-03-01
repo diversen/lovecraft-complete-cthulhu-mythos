@@ -19,7 +19,7 @@ text-indent:1.5em;
 text-align:justify;
 }
 
-p:first-child {
+p:first-of-type {
 margin-top:0.5em;
 margin-bottom: 0.0em;
 text-indent:0.0em;
