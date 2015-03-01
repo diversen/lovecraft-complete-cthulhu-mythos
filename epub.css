@@ -19,8 +19,11 @@ text-indent:1.5em;
 text-align:justify;
 }
 
-.first {
-display:block;
+p:first-of-type {
+margin-top:0.0em;
+margin-bottom:0.0em;
+text-indent:0em;
+text-align:justify;
 }
 
 /*
