@@ -1,4 +1,4 @@
-# Foreword
+# Another test
 
 <span class="first">
 This is a compilation of H.P. Lovecrafts Cthulhu Mythos. 
