@@ -22,6 +22,6 @@ format-arguments:
     html: -S --chapters --toc
     epub: -S --toc --toc-depth=1
     mobi: ok
-#ignore-files:
-#    - README.md
+ignore-files:
+    - README.md
 ...
