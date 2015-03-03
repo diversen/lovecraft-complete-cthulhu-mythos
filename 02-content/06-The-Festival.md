@@ -2,8 +2,7 @@
 
 #### By H. P. Lovecraft
 
-
->  “Efficiunt Daemones, ut quae non sunt, sic tamen  
+> “Efficiunt Daemones, ut quae non sunt, sic tamen  
 > quasi sint, conspicienda hominibus exhibeant.”  
 > *—Lactantius.*  
 

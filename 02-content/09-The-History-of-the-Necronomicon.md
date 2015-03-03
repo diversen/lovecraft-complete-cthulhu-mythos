@@ -62,7 +62,7 @@ rumours of this book (of which relatively few of the general public
 know) that R.W. Chambers is said to have derived the idea of his early
 novel *The King in Yellow*.
 
-*Chronology*
+#### *Chronology*
 
 > *Al Azif* written circa 730 A.D. at Damascus by Abdul Alhazred  
 > Tr. to Greek 950 A.D. as *Necronomicon* by Theodorus Philetas  

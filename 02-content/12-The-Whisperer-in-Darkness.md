@@ -2,7 +2,9 @@
 
 #### By H. P. Lovecraft
 
- Bear in mind closely that I did not see any actual visual horror at the
+#### I.
+
+Bear in mind closely that I did not see any actual visual horror at the
 end. To say that a mental shock was the cause of what I inferred—that
 last straw which sent me racing out of the lonely Akeley farmhouse and
 through the wild domed hills of Vermont in a commandeered motor at
