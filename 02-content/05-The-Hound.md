@@ -4,7 +4,6 @@
 **By H. P. Lovecraft**
 </span>
 
-<span class="right">
 In my tortured ears there sounds unceasingly a nightmare whirring and
 flapping, and a faint, distant baying as of some gigantic hound. It is
 not dream—it is not, I fear, even madness—for too much has already
@@ -13,7 +12,6 @@ I alone know why, and such is my knowledge that I am about to blow out
 my brains for fear I shall be mangled in the same way. Down unlit and
 illimitable corridors of eldritch phantasy sweeps the black, shapeless
 Nemesis that drives me to self-annihilation.
-</span>
 
 May heaven forgive the folly and morbidity
 which led us both to so monstrous a fate! Wearied with the commonplaces
@@ -151,11 +149,10 @@ Holland to our home, we thought we heard the faint distant baying of
 some gigantic hound in the background. But the autumn wind moaned sad
 and wan, and we could not be sure.
 
-<span class="first">
+<span class="center">
 II.
 </span>
 
-<span class="first">
 Less than a week after our return to England,
 strange things began to happen. We lived as recluses; devoid of friends,
 alone, and without servants in a few rooms of an ancient manor-house on
@@ -174,7 +171,6 @@ sometimes we burned strangely scented candles before it. We read much in
 Alhazred’s *Necronomicon* about its properties, and about the relation
 of ghouls’ souls to the objects it symbolised; and were disturbed by
 what we read. Then terror came.
-</span>
 
 On the night of September 24, 19––, I heard a
 knock at my chamber door. Fancying it St. John’s, I bade the knocker
