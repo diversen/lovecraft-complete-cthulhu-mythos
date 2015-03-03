@@ -448,7 +448,7 @@ slowly and inexorably toward the unknown world. Finally reason must have
 wholly snapped, for I fell to babbling over and over that unexplainable
 couplet of the mad Arab Alhazred, who dreamed of the nameless city:
 
-<span class="right">
+<span class="first">
 > “That is not dead which can eternal lie,  
 > And with strange aeons even death may die.”  
 </span>
