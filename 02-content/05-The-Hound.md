@@ -295,4 +295,3 @@ accursed web-wings circles closer and closer, I shall seek with my
 revolver the oblivion which is my only refuge from the unnamed and
 unnamable.
 
-

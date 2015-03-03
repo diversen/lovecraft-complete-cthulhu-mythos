@@ -2,7 +2,7 @@
 
 **By H. P. Lovecraft**
 
-> (Found Among the Papers of the Late\
+> (Found Among the Papers of the Late
 > Francis Wayland Thurston, of Boston)
 > 
 > “Of such great powers or beings there may be conceivably a
@@ -14,9 +14,9 @@
 > —Algernon Blackwood.
 
 
-I. 
-
-*The Horror in Clay.*
+<span class="center">
+I. *The Horror in Clay.*
+</span>
 
  The most merciful thing in the world, I think, is the inability of the
 human mind to correlate all its contents. We live on a placid island of
@@ -292,9 +292,9 @@ envisage the callous rationalism with which I set them aside. But I was
 then convinced that young Wilcox had known of the older matters
 mentioned by the professor.
 
-II.
-
-*The Tale of Inspector Legrasse.*
+<span class="center">
+II. *The Tale of Inspector Legrasse.*
+</span>
 
  The older matters which had made the sculptor’s dream and bas-relief so
 significant to my uncle formed the subject of the second half of his
@@ -646,8 +646,8 @@ deathless Chinamen said that there were double meanings in the
 *Necronomicon* of the mad Arab Abdul Alhazred which the initiated might
 read as they chose, especially the much-discussed couplet:
 
-> *“That is not dead which can eternal lie,\
-> And with strange aeons even death may die.”*
+> *“That is not dead which can eternal lie,  
+> And with strange aeons even death may die.”*  
 
 Legrasse, deeply impressed and not a little
 bewildered, had inquired in vain concerning the historic affiliations of
@@ -764,9 +764,9 @@ to sinister ears? I think Professor Angell died because he knew too
 much, or because he was likely to learn too much. Whether I shall go as
 he did remains to be seen, for I have learned much now.
 
-III.
-
-*The Madness from the Sea.*
+<span class="center">
+III. *The Madness from the Sea.*
+</span>
 
  If heaven ever wishes to grant me a boon, it will be a total effacing
 of the results of a mere chance which fixed my eye on a certain stray
