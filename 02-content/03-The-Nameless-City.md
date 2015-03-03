@@ -4,7 +4,6 @@
 **By H. P. Lovecraft**
 </span>
 
-<span class="first">
 When I drew nigh the nameless city I knew it was accursed. I was
 travelling in a parched and terrible valley under the moon, and afar I
 saw it protruding uncannily above the sands as parts of a corpse may
@@ -13,7 +12,6 @@ this hoary survivor of the deluge, this great-grandmother of the eldest
 pyramid; and a viewless aura repelled me and bade me retreat from
 antique and sinister secrets that no man should see, and no man else had
 ever dared to see.
-</span>
 
 Remote in the desert of Araby lies the
 nameless city, crumbling and inarticulate, its low walls nearly hidden
@@ -448,10 +446,8 @@ slowly and inexorably toward the unknown world. Finally reason must have
 wholly snapped, for I fell to babbling over and over that unexplainable
 couplet of the mad Arab Alhazred, who dreamed of the nameless city:
 
-<span class="first">
 > “That is not dead which can eternal lie,  
 > And with strange aeons even death may die.”  
-</span>
 
 Only the grim brooding desert gods know what
 really took place—what indescribable struggles and scrambles in the dark
@@ -479,3 +475,4 @@ the ghoul-peopled blackness of earth’s bowels; for behind the last of
 the creatures the great brazen door clanged shut with a deafening peal
 of metallic music whose reverberations swelled out to the distant world
 to hail the rising sun as Memnon hails it from the banks of the Nile.
+

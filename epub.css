@@ -27,18 +27,19 @@ blockquote  {
     margin-right: 5%;    
 }
 
+/*
 span.first {
     display: block;
     margin-top:1.0em;
     margin-bottom:0.0em;
     text-align:justify;
     text-indent:0 !important;
-}
+}*/
 
 p {
     margin-top:0.0em;
     margin-bottom:0.0em;
-    text-indent:1.5em;
+    text-indent:1.0em;
     text-align:justify;
 }
 
