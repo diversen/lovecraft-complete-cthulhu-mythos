@@ -4,6 +4,7 @@
 **By H. P. Lovecraft**
 </span>
 
+<span class="right">
 In my tortured ears there sounds unceasingly a nightmare whirring and
 flapping, and a faint, distant baying as of some gigantic hound. It is
 not dream—it is not, I fear, even madness—for too much has already
@@ -12,6 +13,7 @@ I alone know why, and such is my knowledge that I am about to blow out
 my brains for fear I shall be mangled in the same way. Down unlit and
 illimitable corridors of eldritch phantasy sweeps the black, shapeless
 Nemesis that drives me to self-annihilation.
+</span>
 
 May heaven forgive the folly and morbidity
 which led us both to so monstrous a fate! Wearied with the commonplaces

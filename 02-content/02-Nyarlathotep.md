@@ -1,9 +1,13 @@
 # Nyarlathotep 
 
+<span class="center">
 **By H. P. Lovecraft**
+</span>
 
+<span class="first">
 Nyarlathotep . . . the crawling chaos . . . I am the last . . . I will
 tell the audient void. . . .
+</span>
 
 I do not recall distinctly when it began, but
 it was months ago. The general tension was horrible. To a season of

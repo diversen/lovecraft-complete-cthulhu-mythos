@@ -1,7 +1,10 @@
 # Azathoth
 
+<span class="center">
 **By H. P. Lovecraft**
+</span>
 
+<span class="right">
 When age fell upon the world, and wonder went out of the minds of men;
 when grey cities reared to smoky skies tall towers grim and ugly, in
 whose shadow none might dream of the sun or of spring’s flowering meads;
@@ -10,6 +13,7 @@ more save of twisted phantoms seen with bleared and inward-looking eyes;
 when these things had come to pass, and childish hopes had gone away
 forever, there was a man who travelled out of life on a quest into the
 spaces whither the world’s dreams had fled.
+</span>
 
 Of the name and abode of this man but little
 is written, for they were of the waking world only; yet it is said that
@@ -43,5 +47,4 @@ calendars the tides of far spheres bare him gently to join the dreams
 for which he longed; the dreams that men have lost. And in the course of
 many cycles they tenderly left him sleeping on a green sunrise shore; a
 green shore fragrant with lotus-blossoms and starred by red camalotes.
-
 
