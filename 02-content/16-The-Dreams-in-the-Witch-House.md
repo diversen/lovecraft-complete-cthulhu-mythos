@@ -1,6 +1,6 @@
 # The Dreams in the Witch House
 
-**By H. P. Lovecraft**
+#### By H. P. Lovecraft
 
 Whether the dreams brought on the fever or the fever brought on the
 dreams Walter Gilman did not know. Behind everything crouched the
@@ -1432,3 +1432,4 @@ miniature, monstrously degraded parody of a human skull. The workmen
 crossed themselves in fright when they came upon this blasphemy, but
 later burned candles of gratitude in St. Stanislaus’ Church because of
 the shrill, ghostly tittering they felt they would never hear again.
+

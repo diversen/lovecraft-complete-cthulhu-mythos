@@ -1,10 +1,10 @@
 # At the Mountains of Madness
 
-**By H. P. Lovecraft**
+#### By H. P. Lovecraft
 
-I.
+#### I.
 
- I am forced into speech because men of science have refused to follow
+I am forced into speech because men of science have refused to follow
 my advice without knowing why. It is altogether against my will that I
 tell my reasons for opposing this contemplated invasion of the
 antarctic—with its vast fossil-hunt and its wholesale boring and melting
@@ -346,11 +346,9 @@ above the unicellular or at most the trilobite stage. These fragments,
 with their odd marking, must have been 500 million to a thousand million
 years old.
  
+#### II.
 
-II.
-
-
- Popular imagination, I judge, responded actively to our wireless
+Popular imagination, I judge, responded actively to our wireless
 bulletins of Lake’s start northwestward into regions never trodden by
 human foot or penetrated by human imagination; though we did not mention
 his wild hopes of revolutionising the entire sciences of biology and
@@ -955,7 +953,7 @@ about toning down the day’s news for the outside world, since the full
 details seemed radical enough to rouse a wave of incredulity until
 further substantiated.
 
-III.
+#### III.
 
  None of us, I imagine, slept very heavily or continuously that morning;
 for both the excitement of Lake’s discovery and the mounting fury of the
@@ -1314,7 +1312,7 @@ the antarctic and melt and bore till they bring up that which may end
 the world we know. So I must break through all reticences at last—even
 about that ultimate nameless thing beyond the mountains of madness.
  
-IV.
+#### IV.
 
  It is only with vast hesitancy and repugnance that I let my mind go
 back to Lake’s camp and what we really found there—and to that other
@@ -1616,7 +1614,7 @@ then, having gained those last few feet, we did indeed stare across the
 momentous divide and over the unsampled secrets of an elder and utterly
 alien earth.
 
-V.
+#### V.
 
  I think that both of us simultaneously cried out in mixed awe, wonder,
 terror, and disbelief in our own senses as we finally cleared the pass
@@ -2050,7 +2048,7 @@ in the great range, had helped to create the special state now
 observable. Imagination could conceive almost anything in connexion with
 this place.
 
-VI.
+#### VI.
 
  It would be cumbrous to give a detailed, consecutive account of our
 wanderings inside that cavernous, aeon-dead honeycomb of primal masonry;
@@ -2300,9 +2298,9 @@ necessity. Certain lingering influences in that unknown antarctic world
 of disordered time and alien natural law make it imperative that further
 exploration be discouraged.
 
-VII.
+#### VII.
 
- The full story, so far as deciphered, will shortly appear in an
+The full story, so far as deciphered, will shortly appear in an
 official bulletin of Miskatonic University. Here I shall sketch only the
 salient high lights in a formless, rambling way. Myth or otherwise, the
 sculptures told of the coming of those star-headed things to the
@@ -2633,7 +2631,7 @@ reputed to be preserved certain sacred stones forming part of the first
 sea-bottom city, which were thrust up to light after long epochs in the
 course of the general crumpling of strata.
 
-VIII.
+#### VIII.
 
  Naturally, Danforth and I studied with especial interest and a
 peculiarly personal sense of awe everything pertaining to the immediate
@@ -2919,9 +2917,9 @@ race to have. . . . Danforth and I had seen a good deal in the last few
 hours, and were prepared to believe and keep silent about many appalling
 and incredible secrets of primal Nature.
  
-IX.
+#### IX.
 
- I have said that our study of the decadent sculptures brought about a
+I have said that our study of the decadent sculptures brought about a
 change in our immediate objective. This of course had to do with the
 chiselled avenues to the black inner world, of whose existence we had
 not known before, but which we were now eager to find and traverse. From
@@ -3275,9 +3273,9 @@ preserved, patched with adhesive plaster where some wounds around the
 neck had occurred, and wrapped with patent care to prevent further
 damage. They were the bodies of young Gedney and the missing dog.
 
-X.
+#### X.
 
- Many people will probably judge us callous as well as mad for thinking
+Many people will probably judge us callous as well as mad for thinking
 about the northward tunnel and the abyss so soon after our sombre
 discovery, and I am not prepared to say that we would have immediately
 revived such thoughts but for a specific circumstance which broke in
@@ -3528,12 +3526,10 @@ sea-cliffs of the great abyss. Then, quite unexpectedly, we saw certain
 obstructions on the polished floor ahead—obstructions which were quite
 definitely not penguins—and turned on our second torch after making sure
 that the objects were quite stationary.
- 
 
-XI.
+#### XI.
 
-
- Still another time have I come to a place where it is very difficult to
+Still another time have I come to a place where it is very difficult to
 proceed. I ought to be hardened by this stage; but there are some
 experiences and intimations which scar too deeply to permit of healing,
 and leave only such an added sensitiveness that memory reinspires all
@@ -3853,9 +3849,9 @@ solely by the Old Ones, and having no language save that which the
 dot-groups expressed—*had likewise no voice save the imitated accents of
 their bygone masters*.
 
-XII.
+#### XII.
 
- Danforth and I have recollections of emerging into the great sculptured
+Danforth and I have recollections of emerging into the great sculptured
 hemisphere and of threading our back trail through the Cyclopean rooms
 and corridors of the dead city; yet these are purely dream-fragments
 involving no memory of volition, details, or physical exertion. It was
@@ -4047,3 +4043,4 @@ At the time his shrieks were confined to the
 repetition of a single mad word of all too obvious source:
 
 *“Tekeli-li! Tekeli-li!”*
+

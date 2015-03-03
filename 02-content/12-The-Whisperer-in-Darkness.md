@@ -1,6 +1,6 @@
 # The Whisperer in Darkness
 
-**By H. P. Lovecraft**
+#### By H. P. Lovecraft
 
  Bear in mind closely that I did not see any actual visual horror at the
 end. To say that a mental shock was the cause of what I inferred—that
@@ -243,7 +243,7 @@ romanticists who insisted on trying to transfer to real life the
 fantastic lore of lurking “little people” made popular by the
 magnificent horror-fiction of Arthur Machen.
 
-II.
+#### II.
 
 As was only natural under the circumstances,
 this piquant debating finally got into print in the form of letters to
@@ -663,7 +663,7 @@ the hieroglyphics on that infamous black stone—a deciphering which might
 well place us in possession of secrets deeper and more dizzying than any
 formerly known to man.
 
-III.
+#### III.
 
 Toward the end of June the phonograph record
 came—shipped from Brattleboro, since Akeley was unwilling to trust
@@ -937,7 +937,7 @@ matter would have rankled bitterly in my mind had not Akeley’s immediate
 subsequent letters brought up a new phase of the whole horrible hill
 problem which at once seized all my attention.
 
-IV.
+#### IV.
 
 The unknown things, Akeley wrote in a script
 grown pitifully tremulous, had begun to close in on him with a wholly
@@ -1233,7 +1233,7 @@ claimed was virtually complete, though I did think his failure to get a
 picture of the dead monster was due not to any freak of Nature but to
 some excited slip of his own.
 
-V.
+#### V.
 
 Then, apparently crossing my incoherent note
 and reaching me Saturday afternoon, September 8th, came that curiously
@@ -1523,7 +1523,7 @@ since all such doubts had been rather deeply buried. But I slept soundly
 and long that night, and was eagerly busy with preparations during the
 ensuing two days.
 
-VI.
+#### VI.
 
 On Wednesday I started as agreed, taking with
 me a valise full of simple necessities and scientific data, including
@@ -1828,7 +1828,7 @@ indefinable. Perhaps it was a certain odd odour which I thought I
 noticed—though I well knew how common musty odours are in even the best
 of ancient farmhouses.
 
-VII.
+#### VII.
 
 Refusing to let these cloudy qualms
 overmaster me, I recalled Noyes’s instructions and pushed open the
@@ -2274,7 +2274,7 @@ recalled from old legends that dogs and other beasts had always hated
 the Outer Ones, and thought of what those tracks in the road might
 mean.
 
-VIII.
+#### VIII.
 
 Do not ask me how long my unexpected lapse
 into slumber lasted, or how much of what ensued was sheer dream. If I
@@ -2639,3 +2639,4 @@ and mechanical skill”. . .
 For the things in the chair, perfect to the
 last, subtle detail of microscopic resemblance—or identity—were the face
 and hands of Henry Wentworth Akeley.
+

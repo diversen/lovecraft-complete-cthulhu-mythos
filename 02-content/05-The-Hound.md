@@ -1,8 +1,6 @@
 # The Hound
 
-<span class="center">
-**By H. P. Lovecraft**
-</span>
+#### By H. P. Lovecraft
 
 In my tortured ears there sounds unceasingly a nightmare whirring and
 flapping, and a faint, distant baying as of some gigantic hound. It is
@@ -149,9 +147,7 @@ Holland to our home, we thought we heard the faint distant baying of
 some gigantic hound in the background. But the autumn wind moaned sad
 and wan, and we could not be sure.
 
-<span class="center">
-II.
-</span>
+#### II.
 
 Less than a week after our return to England,
 strange things began to happen. We lived as recluses; devoid of friends,

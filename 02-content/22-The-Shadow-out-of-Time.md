@@ -1,8 +1,8 @@
 # The Shadow out of Time
 
-**By H. P. Lovecraft**
+By H. P. Lovecraft
 
-I.
+#### I.
 
 After twenty-two years of nightmare and terror, saved only by a
 desperate conviction of the mythical source of certain impressions, I am
@@ -281,7 +281,7 @@ spirit in whose time-scale it was still that Thursday morning in 1908,
 with the economics class gazing up at the battered desk on the
 platform.
 
-II.
+#### II.
 
  My reabsorption into normal life was a painful and difficult process.
 The loss of over five years creates more complications than can be
@@ -549,7 +549,7 @@ town of domes and arches. Great shapeless suggestions of shadow moved
 over it, and here and there its surface was vexed with anomalous
 spoutings.
 
-III.
+#### III.
 
 As I have said, it was not immediately that these wild visions began to
 hold their terrifying quality. Certainly, many persons have dreamed
@@ -856,7 +856,7 @@ of teaching economics had changed greatly since my heyday. My son was at
 this time just entering on the post-graduate studies leading to his
 present professorship, and we worked together a great deal.
 
-IV.
+#### IV.
 
 I continued, however, to keep a careful record of the outré dreams
 which crowded upon me so thickly and vividly. Such a record, I argued,
@@ -1285,7 +1285,7 @@ horrified banishing of the subject from common speech and visible
 records. And always the shadow of nameless fear hung about the sealed
 trap-doors and the dark, windowless elder towers.
 
-V.
+#### V.
 
 That is the world of which my dreams brought me dim, scattered echoes
 every night. I cannot hope to give any true idea of the horror and dread
@@ -1576,7 +1576,7 @@ Failure, however, confronted us. I had formed no clear idea of the
 stone’s location, and a late wind had wholly altered the hillocks of
 shifting sand.
 
-VI.
+#### VI.
 
 I come now to the crucial and most difficult part of my narrative—all
 the more difficult because I cannot be quite certain of its reality. At
@@ -1924,7 +1924,7 @@ moment. It was then that madness took me utterly. An instant later, and
 I was leaping and stumbling over the rocky debris toward the
 well-remembered incline to the depths below.
 
-VII.
+#### VII.
 
 From that point forward my impressions are scarcely to be relied
 on—indeed, I still possess a final, desperate hope that they all form
@@ -2161,7 +2161,7 @@ heap of cases which must have clattered down not long before, while at
 the other end was the ominous trap-door with the cool, damp wind,
 yawning unguarded down to abysses past imagination.
  
-VIII.
+#### VIII.
 
 That my strange sense of compulsion was deep and overwhelming is shewn
 by its conquest of my fear. No rational motive could have drawn me on
@@ -2501,3 +2501,4 @@ that the queerly pigmented letters on the brittle, aeon-browned
 cellulose pages were not indeed any nameless hieroglyphs of earth’s
 youth. They were, instead, the letters of our familiar alphabet,
 spelling out the words of the English language in my own handwriting.
+

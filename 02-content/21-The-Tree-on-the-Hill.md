@@ -1,8 +1,8 @@
 # The Tree on the Hill
 
-**By H. P. Lovecraft and Duane W. Rimel**
+#### By H. P. Lovecraft and Duane W. Rimel
 
-I.
+#### I.
 
 Southeast of Hampden, near the tortuous Salmon River gorge, is a range
 of steep, rocky hills which have defied all efforts of sturdy
@@ -148,7 +148,7 @@ had crawled part of the way. . . .
 I glanced at the sun. Late afternoon! *Where*
 had I been? I snatched out my watch. It had stopped at 10:34. . . .
 
-II.
+#### II.
 
 “So you have the snapshots?” Theunis drawled.
 I met his gray eyes across the breakfast table. Three days had slipped
@@ -335,7 +335,7 @@ He nodded.
 “Then we’ll both go home,” I said
 decisively.
 
-III.
+#### III.
 
 I need not chronicle the events of the
 fortnight that followed. With me they formed a constant and enervating
@@ -455,3 +455,4 @@ evidently groping toward something on the ground or in the spectator’s
 direction. And squarely below the writhing, bloated digits I thought I
 saw an outline in the grass where a man had lain. But the sketch was
 hasty, and I could not be sure.
+

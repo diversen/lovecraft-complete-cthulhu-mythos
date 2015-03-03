@@ -1,8 +1,8 @@
 # The Mound
 
-**By H. P. Lovecraft and Zealia Bishop**
+#### By H. P. Lovecraft and Zealia Bishop
 
-I.
+#### I.
 
 It is only within the last few years that most people have stopped
 thinking of the West as a *new* land. I suppose the idea gained ground
@@ -437,7 +437,7 @@ wise you’ll let it rest where it is. Better call your search off, son,
 and tackle some of the other Injun legends around here. We’ve plenty to
 keep you busy, heaven knows!”
  
-II.
+#### II.
 
 But I was in no mood for advice; and though
 Compton gave me a pleasant room, I could not sleep a wink through
@@ -812,7 +812,7 @@ mysteries it represented. Before that gulf Pánfilo de Zamacona and I
 stood side by side; just as Aristotle and I, or Cheops and I, might have
 stood.
  
-III.
+#### III.
 
 Of his youth in Luarca, a small, placid port
 on the Bay of Biscay, Zamacona told little. He had been wild, and a
@@ -1369,7 +1369,7 @@ in his healthily dreamless rest. It is well that he rested deeply, for
 there were many strange things to be encountered in his next period of
 consciousness.
  
-IV.
+#### IV.
 
 What finally roused Zamacona was a thunderous
 rapping at the door. It beat through his dreams and dissolved all the
@@ -1747,7 +1747,7 @@ their minds the fact that from now on sentries would undoubtedly be
 posted once more at all the unblocked passages to the outside world
 which the men of Tsath could remember.
 
-V.
+#### V.
 
 The long conversation of Zamacona and his
 visitors took place in the green-blue twilight of the grove just outside
@@ -2113,7 +2113,7 @@ contributing what they could to his instruction and amusement. Upon
 their departure, another party would take their place, and so onward in
 rotation through a group of about fifty members.
  
-VI.
+#### VI.
 
 Thus was Pánfilo de Zamacona y Nuñez absorbed
 for four years into the life of the sinister city of Tsath in the
@@ -2458,7 +2458,7 @@ sentence—“*Es más tarde de lo que pensaba—tengo que marcharme*”. . .�
 conjecture—and such evidence as the presence of the manuscript itself,
 and what that manuscript could lead to, might provide.
 
-VII.
+#### VII.
 
 When I looked up from my half-stupefied
 reading and note-taking the morning sun was high in the heavens. The
@@ -2803,5 +2803,4 @@ the Roman letters used to record it. The inscription had read
 “*Secuestrado a la voluntad de Xinaián en el cuerpo decapitado de
 Tlayúb”—“Seized by the will of K’n-yan in the headless body of
 T’la-yub.”*
-
 

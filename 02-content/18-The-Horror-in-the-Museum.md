@@ -1,6 +1,8 @@
 # The Horror in the Museum
 
-**By H. P. Lovecraft and Hazel Heald**
+#### By H. P. Lovecraft and Hazel Heald
+
+#### I
 
 It was languid curiosity which first brought Stephen Jones to Rogers’
 Museum. Someone had told him about the queer underground place in
@@ -552,8 +554,7 @@ locked it after him, and stamped up the worn steps to the sidewalk
 outside. As his tread receded, Jones realised that the long, tedious
 vigil had commenced.
 
-II.
-
+#### II.
 
 Later, in the utter blackness of the great
 arched cellar, Jones cursed the childish naiveté which had brought him

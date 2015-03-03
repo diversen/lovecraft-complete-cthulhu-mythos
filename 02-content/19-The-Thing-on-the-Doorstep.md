@@ -1,10 +1,10 @@
 # The Thing on the Doorstep
 
-**By H. P. Lovecraft**
+#### By H. P. Lovecraft
 
-I.
+#### I.
 
- It is true that I have sent six bullets through the head of my best
+It is true that I have sent six bullets through the head of my best
 friend, and yet I hope to shew by this statement that I am not his
 murderer. At first I shall be called a madman—madder than the man I shot
 in his cell at the Arkham Sanitarium. Later some of my readers will
@@ -140,9 +140,9 @@ Some of the whispered rumours about the wild Miskatonic set were
 extremely singular. There was even talk of black magic and of happenings
 utterly beyond credibility.
  
-II.
+#### II.
 
- Edward was thirty-eight when he met Asenath Waite. She was, I judge,
+Edward was thirty-eight when he met Asenath Waite. She was, I judge,
 about twenty-three at the time; and was taking a special course in
 mediaeval metaphysics at Miskatonic. The daughter of a friend of mine
 had met her before—in the Hall School at Kingsport—and had been inclined
@@ -274,9 +274,9 @@ referred occasionally to him and to Asenath’s dead mother in a cryptic
 way, and a swarthy young wench who had marked anomalies of feature and
 seemed to exude a perpetual odour of fish.
  
-III.
+#### III.
 
- For the next two years I saw less and less of Derby. A fortnight would
+For the next two years I saw less and less of Derby. A fortnight would
 sometimes slip by without the familiar three-and-two strokes at the
 front door; and when he did call—or when, as happened with increasing
 infrequency, I called on him—he was very little disposed to converse on
@@ -395,9 +395,9 @@ away—‘away in her own body’, as he once oddly put it. She always found
 out later—the servants watched his goings and comings—but evidently she
 thought it inexpedient to do anything drastic.
  
-IV.
+#### IV.
 
- Derby had been married more than three years on that August day when I
+Derby had been married more than three years on that August day when I
 got the telegram from Maine. I had not seen him for two months, but had
 heard he was away “on business”. Asenath was supposed to be with him,
 though watchful gossips declared there was someone upstairs in the house
@@ -608,7 +608,7 @@ of relief. It had been a terrible drive—all the more terrible because I
 could not quite tell why—and I did not regret Derby’s forecast of a long
 absence from my company.
  
-V.
+#### V.
 
  The next two months were full of rumours. People spoke of seeing Derby
 more and more in his new energised state, and Asenath was scarcely ever
@@ -793,7 +793,7 @@ the house, and especially down cellar, looked odd and unwholesome to
 him. I wondered if Asenath had been writing disturbing letters, but the
 butler said there was no mail which could have come from her.
 
-VI.
+#### VI.
 
 It was about Christmas that Derby broke down one evening while calling
 on me. I was steering the conversation toward next summer’s travels when
@@ -904,7 +904,7 @@ collapse—a state I admit, though others will vow it coloured my
 subsequent vision. I have nothing to say on this point except that no
 madness of mine could account for *all* the evidence.
 
-VII.
+#### VII.
 
 It was in the night—after that second evening—that stark, utter horror
 burst over me and weighted my spirit with a black, clutching panic from
@@ -1065,3 +1065,4 @@ What they finally found inside Edward’s oddly
 assorted clothes was mostly liquescent horror. There were bones, too—and
 a crushed-in skull. Some dental work positively identified the skull as
 Asenath’s.
+

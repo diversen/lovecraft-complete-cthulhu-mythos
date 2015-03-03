@@ -1,8 +1,6 @@
 # The Colour out of Space
 
-<span class="center">
-**By H. P. Lovecraft**
-</span>
+#### By H. P. Lovecraft
 
 West of Arkham the hills rise wild, and there are valleys with deep
 woods that no axe has ever cut. There are dark narrow glens where the
@@ -1095,5 +1093,4 @@ use. . . .” Ammi is such a good old man—when the reservoir gang gets to
 work I must write the chief engineer to keep a sharp watch on him. I
 would hate to think of him as the grey, twisted, brittle monstrosity
 which persists more and more in troubling my sleep.
-
 

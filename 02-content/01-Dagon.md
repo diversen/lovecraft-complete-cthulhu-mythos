@@ -1,8 +1,6 @@
 # Dagon 
 
-<span class="center">
-**By H. P. Lovecraft**
-</span>
+#### By H. P. Lovecraft
 
 I am writing this under an appreciable mental strain, since by tonight I
 shall be no more. Penniless, and at the end of my supply of the drug

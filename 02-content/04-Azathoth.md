@@ -1,8 +1,6 @@
 # Azathoth
 
-<span class="center">
-**By H. P. Lovecraft**
-</span>
+#### By H. P. Lovecraft
 
 When age fell upon the world, and wonder went out of the minds of men;
 when grey cities reared to smoky skies tall towers grim and ugly, in

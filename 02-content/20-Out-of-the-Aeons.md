@@ -1,9 +1,11 @@
 # Out of the Aeons
 
-**By H. P. Lovecraft and Hazel Heald**
+By H. P. Lovecraft and Hazel Heald
 
 > (Ms. found among the effects of the late Richard H. Johnson, Ph.D.,
 > curator of the Cabot Museum of Archaeology, Boston, Mass.)
+
+#### I
 
 It is not likely that anyone in Boston—or any alert reader
 elsewhere—will ever forget the strange affair of the Cabot Museum. The
@@ -207,7 +209,7 @@ occultist or student of the primal past’s esoteric lore had his
 attention called to the strange scroll until the recent outburst of
 sensational journalism which precipitated the horrible climax.
  
-II.
+#### II.
 
 Thus matters glided along for a half-century
 following the installation of the frightful mummy at the museum. The
@@ -312,7 +314,7 @@ furore was to make me read von Junzt’s monstrous volume in the Golden
 Goblin edition—a perusal which left me dizzy and nauseated, yet thankful
 that I had not seen the utter infamy of the unexpurgated text.
 
-III.
+#### III.
 
 The archaic whispers reflected in the *Black
 Book,* and linked with designs and symbols so closely akin to what the
@@ -573,7 +575,7 @@ Cyclopean crypt where the mummy was found had once lain under a vast
 building . . . somehow I was vaguely glad that the volcanic island had
 sunk before that massive suggestion of a trap-door could be opened.
 
-IV.
+#### IV.
 
 What I read in the *Black Book* formed a
 fiendishly apt preparation for the news items and closer events which
@@ -786,7 +788,7 @@ felt a bit more steadied after flooding the building with light from the
 central switches in the corridor, and finally crept reluctantly up the
 curving staircase and through a lofty archway to the hall of mummies.
 
-V.
+#### V.
 
 It is from this point onward that reports of
 the hideous case have been censored—for we have all agreed that no good
@@ -1026,3 +1028,4 @@ ten minutes later our stunned group took an oath of secrecy which only
 such guarded documents as this manuscript will ever modify. Even the two
 reporters were glad to confirm the silence. *For the opening had
 revealed a pulsing, living brain.*
+

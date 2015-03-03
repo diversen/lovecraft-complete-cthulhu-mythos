@@ -1,8 +1,7 @@
 # The Festival
 
-<span class="center">
-**By H. P. Lovecraft**
-</span>
+#### By H. P. Lovecraft
+
 
 >  “Efficiunt Daemones, ut quae non sunt, sic tamen  
 > quasi sint, conspicienda hominibus exhibeant.”  
@@ -343,3 +342,4 @@ English as I can make from the awkward Low Latin.
 > crafty to vex it and swell monstrous to plague it. Great holes
 > secretly are digged where earth’s pores ought to suffice, and things
 > have learnt to walk that ought to crawl.”
+

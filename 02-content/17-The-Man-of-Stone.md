@@ -1,6 +1,6 @@
 # The Man of Stone
 
-**By H. P. Lovecraft and Hazel Heald**
+#### By H. P. Lovecraft and Hazel Heald
 
 Ben Hayden was always a stubborn chap, and once he had heard about those
 strange statues in the upper Adirondacks, nothing could keep him from
@@ -596,3 +596,4 @@ shall be a stone statue. My only wish is to be buried beside the statue
 that was Arthur—when it is found in that cave where the fiend left it.
 Poor trusting Rex ought to lie at our feet. I do not care what becomes
 of the stone devil tied in the chair. . . .”
+

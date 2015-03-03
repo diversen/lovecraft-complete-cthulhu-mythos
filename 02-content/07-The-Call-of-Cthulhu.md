@@ -1,6 +1,6 @@
 # The Call of Cthulhu
 
-**By H. P. Lovecraft**
+#### By H. P. Lovecraft
 
 > (Found Among the Papers of the Late
 > Francis Wayland Thurston, of Boston)
@@ -13,10 +13,7 @@
 > gods, monsters, mythical beings of all sorts and kinds. . . .”
 > —Algernon Blackwood.
 
-
-<span class="center">
-I. *The Horror in Clay.*
-</span>
+#### I. *The Horror in Clay.*
 
  The most merciful thing in the world, I think, is the inability of the
 human mind to correlate all its contents. We live on a placid island of
@@ -292,9 +289,7 @@ envisage the callous rationalism with which I set them aside. But I was
 then convinced that young Wilcox had known of the older matters
 mentioned by the professor.
 
-<span class="center">
-II. *The Tale of Inspector Legrasse.*
-</span>
+#### II. *The Tale of Inspector Legrasse.*
 
  The older matters which had made the sculptor’s dream and bas-relief so
 significant to my uncle formed the subject of the second half of his
@@ -764,11 +759,9 @@ to sinister ears? I think Professor Angell died because he knew too
 much, or because he was likely to learn too much. Whether I shall go as
 he did remains to be seen, for I have learned much now.
 
-<span class="center">
-III. *The Madness from the Sea.*
-</span>
+#### III. *The Madness from the Sea.*
 
- If heaven ever wishes to grant me a boon, it will be a total effacing
+If heaven ever wishes to grant me a boon, it will be a total effacing
 of the results of a mere chance which fixed my eye on a certain stray
 piece of shelf-paper. It was nothing on which I would naturally have
 stumbled in the course of my daily round, for it was an old number of an

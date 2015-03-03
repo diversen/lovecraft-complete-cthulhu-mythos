@@ -1,10 +1,10 @@
 # The Shadow over Innsmouth
 
-**By H. P. Lovecraft**
+#### By H. P. Lovecraft*
 
-I.
+#### I.
 
- During the winter of 1927–28 officials of the Federal government made a
+During the winter of 1927–28 officials of the Federal government made a
 strange and secret investigation of certain conditions in the ancient
 Massachusetts seaport of Innsmouth. The public first learned of it in
 February, when a vast series of raids and arrests occurred, followed by
@@ -400,8 +400,7 @@ historical anticipations was now added an acute anthropological zeal,
 and I could scarcely sleep in my small room at the “Y” as the night wore
 away.
  
-II.
-
+#### II.
 
 Shortly before ten the next morning I stood
 with one small valise in front of Hammond’s Drug Store in old Market
@@ -949,7 +948,7 @@ This, of course, must be Zadok Allen, the half-crazed, liquorish
 nonagenarian whose tales of old Innsmouth and its shadow were so hideous
 and incredible.
  
-III.
+#### III.
 
 It must have been some imp of the perverse—or
 some sardonic pull from dark, hidden sources—which made me change my
@@ -1543,9 +1542,8 @@ the street, reeling northward around the ruined warehouse wall.
 I glanced back at the sea, but there was
 nothing there. And when I reached Water Street and looked along it
 toward the north there was no remaining trace of Zadok Allen.
- 
-IV.
 
+#### IV.
 
 I can hardly describe the mood in which I was
 left by this harrowing episode—an episode at once mad and pitiful,
@@ -2379,9 +2377,8 @@ guessing. It seemed to me that there were limitless swarms of them—and
 certainly my momentary glimpse could have shewn only the least fraction.
 In another instant everything was blotted out by a merciful fit of
 fainting; the first I had ever had.
- 
-V.
 
+#### V.
 
 It was a gentle daylight rain that awaked me
 from my stupor in the brush-grown railway cut, and when I staggered out

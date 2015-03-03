@@ -1,8 +1,6 @@
 # Nyarlathotep 
 
-<span class="center">
-**By H. P. Lovecraft**
-</span>
+#### By H. P. Lovecraft
 
 Nyarlathotep . . . the crawling chaos . . . I am the last . . . I will
 tell the audient void. . . .

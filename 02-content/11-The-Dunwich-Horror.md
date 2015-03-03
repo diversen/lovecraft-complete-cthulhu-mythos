@@ -16,9 +16,9 @@
 > period of our sinless infancy—are difficulties the solution of which
 > might afford some probable insight into our ante-mundane condition,
 > and a peep at least into the shadowland of pre-existence.”
-> —*Charles Lamb*: “Witches and Other Night-Fears”  
+> —*Charles Lamb*: “Witches and Other Night-Fears”
 
-I.  
+#### I.
 
 When a traveller in north central Massachusetts takes the wrong fork at
 the junction of the Aylesbury pike just beyond Dean’s Corners he comes
@@ -150,7 +150,7 @@ of the Pocumtucks; even though many ethnologists, disregarding the
 absurd improbability of such a theory, persist in believing the remains
 Caucasian.
 
-II.
+#### II.
 
  It was in the township of Dunwich, in a large and partly inhabited
 farmhouse set against a hillside four miles from the village and a mile
@@ -288,7 +288,7 @@ stones with a great book open in his arms before him. Dogs abhorred the
 boy, and he was always obliged to take various defensive measures
 against their barking menace.
 
-III.
+#### III.
 
  Meanwhile Old Whateley continued to buy cattle without measurably
 increasing the size of his herd. He also cut timber and began to repair
@@ -403,7 +403,7 @@ gold pieces of extremely ancient date. The Whateleys had received their
 visitors with ill-concealed distaste, though they did not dare court
 further publicity by a violent resistance or refusal to talk.
 
-IV.
+#### IV.
 
  For a decade the annals of the Whateleys sink indistinguishably into
 the general life of a morbid community used to their queer ways and
@@ -538,7 +538,7 @@ knowing something about his mother’s disappearance, and very few ever
 approached his neighbourhood now. His height had increased to more than
 seven feet, and shewed no signs of ceasing its development.
 
-V.
+#### V.
 
  The following winter brought an event no less strange than Wilbur’s
 first trip outside the Dunwich region. Correspondence with the Widener
@@ -685,7 +685,7 @@ something ought to be done about the lurking terrors of the upper
 Miskatonic valley, and about the monstrous being known to the human
 world as Wilbur Whateley.
 
-VI.
+#### VI.
 
  The Dunwich horror itself came between Lammas and the equinox in 1928,
 and Dr. Armitage was among those who witnessed its monstrous prologue.
@@ -826,9 +826,9 @@ the monstrous odour had nearly disappeared. Apparently Whateley had had
 no skull or bony skeleton; at least, in any true or stable sense. He had
 taken somewhat after his unknown father.
 
-VII.
+#### VII.
 
- Yet all this was only the prologue of the actual Dunwich horror.
+Yet all this was only the prologue of the actual Dunwich horror.
 Formalities were gone through by bewildered officials, abnormal details
 were duly kept from press and public, and men were sent to Dunwich and
 Aylesbury to look up property and notify any who might be heirs of the
@@ -1062,7 +1062,7 @@ like an egg-shell, and amongst the ruins nothing living or dead could be
 discovered. Only a stench and a tarry stickiness. The Elmer Fryes had
 been erased from Dunwich.
 
-VIII.
+#### VIII.
 
  In the meantime a quieter yet even more spiritually poignant phase of
 the horror had been blackly unwinding itself behind the closed door of a
@@ -1258,7 +1258,7 @@ Armitage knew he would be meddling with terrible powers, yet saw that
 there was no other way to annul the deeper and more malign meddling
 which others had done before him.
 
-IX.
+#### IX.
 
  Friday morning Armitage, Rice, and Morgan set out by motor for Dunwich,
 arriving at the village about one in the afternoon. The day was
@@ -1513,7 +1513,7 @@ no reply seemed quite to satisfy. Everyone seemed to feel himself in
 close proximity to phases of Nature and of being utterly forbidden, and
 wholly outside the sane experience of mankind.
 
-X.
+#### X.
 
  In the end the three men from Arkham—old, white-bearded Dr. Armitage,
 stocky, iron-grey Professor Rice, and lean, youngish Dr. Morgan—ascended
@@ -1738,3 +1738,4 @@ and big—but it beat him because it had a greater share of the
 *outsideness* in it. You needn’t ask how Wilbur called it out of the
 air. He didn’t call it out. *It was his twin brother, but it looked more
 like the father than he did.”*
+
