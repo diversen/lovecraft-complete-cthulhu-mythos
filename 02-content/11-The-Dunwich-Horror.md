@@ -1,6 +1,8 @@
-# The Dunwich Horror\
+# The Dunwich Horror
 
+<span class="center">
 **By H. P. Lovecraft**
+</span>
 
 > “Gorgons, and Hydras, and Chimaeras—dire stories of Celaeno and the
 > Harpies—may reproduce themselves in the brain of superstition—*but
@@ -15,10 +17,10 @@
 > proportion as it is objectless on earth, that it predominates in the
 > period of our sinless infancy—are difficulties the solution of which
 > might afford some probable insight into our ante-mundane condition,
-> and a peep at least into the shadowland of pre-existence.”\
-> —*Charles Lamb*: “Witches and Other Night-Fears”
+> and a peep at least into the shadowland of pre-existence.”
+> —*Charles Lamb*: “Witches and Other Night-Fears”  
 
-I.
+I.  
 
 When a traveller in north central Massachusetts takes the wrong fork at
 the junction of the Aylesbury pike just beyond Dean’s Corners he comes

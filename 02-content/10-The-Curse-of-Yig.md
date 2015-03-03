@@ -1,6 +1,8 @@
 # The Curse of Yig
 
+<span class="center">
 **By H. P. Lovecraft and Zealia Bishop**
+</span>
 
 In 1925 I went into Oklahoma looking for snake lore, and I came out with
 a fear of snakes that will last me the rest of my life. I admit it is
@@ -718,4 +720,4 @@ McNeill spoke gravely.
 “*That* is what was born to her
 three-quarters of a year afterward. There were three more of them—two
 were even worse—but this is the only one that lived.”
- 
+
