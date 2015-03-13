@@ -14,8 +14,8 @@ lang: en
 date: '2015-01-27'
 # epub-stylesheet: epub.css
 stylesheet: epub.css
-publisher:  [http://gittobook.org]
-rights: [http://creativecommons.org/licenses/by-sa/2.5/]
+publisher: http://gittobook.org
+rights: http://creativecommons.org/licenses/by-sa/2.5/
 
 # pandoc format arguments
 # because of security these options are limited
