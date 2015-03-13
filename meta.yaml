@@ -9,11 +9,10 @@ author:
 keywords: ebooks, lovecraft, Cthulhu mythos
 rights: Creative Commons Non-Commercial Share Alike 3.0
 language: en-US
-tags: [lovecraft]
+tags: [lovecraft, cthulhu]
 cover-image: cthulhu.png
 lang: en
 date: '2015-01-27'
-# epub-stylesheet: epub.css
 stylesheet: epub.css
 publisher: http://gittobook.org
 rights: http://creativecommons.org/licenses/by-sa/2.5/
@@ -22,7 +21,7 @@ rights: http://creativecommons.org/licenses/by-sa/2.5/
 # because of security these options are limited
 format-arguments:
     #pdf: -S --toc
-    #html: -S --chapters --toc
+    html: -S --chapters --toc
     epub: -S --toc --toc-depth=1
     mobi: ok
 ignore-files:
