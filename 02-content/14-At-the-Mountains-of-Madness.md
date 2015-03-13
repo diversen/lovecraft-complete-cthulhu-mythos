@@ -1,6 +1,6 @@
 # At the Mountains of Madness
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1931)
 
 #### I.
 

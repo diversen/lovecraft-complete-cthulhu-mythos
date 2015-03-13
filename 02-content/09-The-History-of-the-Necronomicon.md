@@ -1,6 +1,6 @@
 # The History of the Necronomicon
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1927)
 
 Original title *Al Azif—azif* being the word used by Arabs to designate
 that nocturnal sound (made by insects) suppos’d to be the howling of

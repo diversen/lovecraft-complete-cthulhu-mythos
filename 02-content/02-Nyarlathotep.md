@@ -1,6 +1,6 @@
 # Nyarlathotep 
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1920)
 
 Nyarlathotep . . . the crawling chaos . . . I am the last . . . I will
 tell the audient void. . . .

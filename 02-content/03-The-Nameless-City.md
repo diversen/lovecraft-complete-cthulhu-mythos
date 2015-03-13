@@ -1,6 +1,6 @@
 # The Nameless City
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1921)
 
 When I drew nigh the nameless city I knew it was accursed. I was
 travelling in a parched and terrible valley under the moon, and afar I

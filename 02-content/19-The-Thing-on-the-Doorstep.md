@@ -1,6 +1,6 @@
 # The Thing on the Doorstep
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1933)
 
 #### I.
 

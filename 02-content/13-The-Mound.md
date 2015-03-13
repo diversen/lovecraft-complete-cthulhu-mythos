@@ -1,6 +1,6 @@
 # The Mound
 
-#### By H. P. Lovecraft and Zealia Bishop
+#### By H. P. Lovecraft and Zealia Bishop (1930)
 
 #### I.
 

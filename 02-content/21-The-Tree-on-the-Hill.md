@@ -1,6 +1,6 @@
 # The Tree on the Hill
 
-#### By H. P. Lovecraft and Duane W. Rimel
+#### By H. P. Lovecraft and Duane W. Rimel (1934)
 
 #### I.
 

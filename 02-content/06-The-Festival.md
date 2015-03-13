@@ -1,6 +1,6 @@
 # The Festival
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1925)
 
 > “Efficiunt Daemones, ut quae non sunt, sic tamen  
 > quasi sint, conspicienda hominibus exhibeant.”  

@@ -1,6 +1,6 @@
 # The Shadow out of Time
 
-By H. P. Lovecraft
+#### By H. P. Lovecraft (1935)
 
 #### I.
 

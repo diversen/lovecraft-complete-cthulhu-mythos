@@ -1,6 +1,6 @@
 # The Shadow over Innsmouth
 
-#### By H. P. Lovecraft*
+#### By H. P. Lovecraft (1931)
 
 #### I.
 

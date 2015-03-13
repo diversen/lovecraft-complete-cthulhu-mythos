@@ -1,6 +1,6 @@
 # The Curse of Yig
 
-#### By H. P. Lovecraft and Zealia Bishop
+#### By H. P. Lovecraft and Zealia Bishop (1928)
 
 In 1925 I went into Oklahoma looking for snake lore, and I came out with
 a fear of snakes that will last me the rest of my life. I admit it is

@@ -1,6 +1,6 @@
 # The Haunter of the Dark
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1936)
 
 > (Dedicated to Robert Bloch)
 > 

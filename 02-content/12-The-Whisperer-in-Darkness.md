@@ -1,6 +1,6 @@
 # The Whisperer in Darkness
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1930)
 
 #### I.
 

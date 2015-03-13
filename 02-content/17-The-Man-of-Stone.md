@@ -1,6 +1,6 @@
 # The Man of Stone
 
-#### By H. P. Lovecraft and Hazel Heald
+#### By H. P. Lovecraft and Hazel Heald (1932)
 
 Ben Hayden was always a stubborn chap, and once he had heard about those
 strange statues in the upper Adirondacks, nothing could keep him from

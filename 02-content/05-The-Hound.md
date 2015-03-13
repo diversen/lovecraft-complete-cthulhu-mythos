@@ -1,6 +1,6 @@
 # The Hound
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1922)
 
 In my tortured ears there sounds unceasingly a nightmare whirring and
 flapping, and a faint, distant baying as of some gigantic hound. It is

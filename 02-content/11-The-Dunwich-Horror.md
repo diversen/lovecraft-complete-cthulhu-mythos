@@ -1,6 +1,6 @@
 # The Dunwich Horror
 
-#### By H. P. Lovecraft  
+#### By H. P. Lovecraft  (1929)
 
 > “Gorgons, and Hydras, and Chimaeras—dire stories of Celaeno and the
 > Harpies—may reproduce themselves in the brain of superstition—*but

@@ -1,6 +1,6 @@
 # The Horror in the Museum
 
-#### By H. P. Lovecraft and Hazel Heald
+#### By H. P. Lovecraft and Hazel Heald (1932)
 
 #### I
 

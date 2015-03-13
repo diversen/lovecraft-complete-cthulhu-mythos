@@ -1,6 +1,6 @@
 # The Call of Cthulhu
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1926)
 
 > (Found Among the Papers of the Late
 > Francis Wayland Thurston, of Boston)

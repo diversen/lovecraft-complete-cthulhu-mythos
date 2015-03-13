@@ -1,6 +1,6 @@
 # The Colour out of Space
 
-#### By H. P. Lovecraft
+#### By H. P. Lovecraft (1927)
 
 West of Arkham the hills rise wild, and there are valleys with deep
 woods that no axe has ever cut. There are dark narrow glens where the
