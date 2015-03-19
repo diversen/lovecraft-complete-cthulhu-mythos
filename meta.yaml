@@ -22,6 +22,7 @@ rights: http://creativecommons.org/licenses/by-sa/2.5/
 format-arguments:
     #pdf: -S --toc
     html: -S --chapters --toc
+    html-split: ok    
     epub: -S --toc --toc-depth=1
     mobi: ok
 ignore-files:
