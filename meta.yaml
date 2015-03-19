@@ -21,7 +21,7 @@ rights: http://creativecommons.org/licenses/by-sa/2.5/
 # because of security these options are limited
 format-arguments:
     #pdf: -S --toc
-    html-chunked: -S --chapters --toc
+    html: -S --chapters --toc
     epub: -S --toc --toc-depth=1
     mobi: ok
 ignore-files:
