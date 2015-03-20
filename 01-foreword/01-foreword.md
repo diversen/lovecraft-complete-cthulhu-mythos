@@ -1,4 +1,4 @@
-# H.P. Lovecraft: The Complete Cthulhu Mythos
+# Foreword
 
 This is a compilation of H.P. Lovecrafts Cthulhu Mythos. 
 
