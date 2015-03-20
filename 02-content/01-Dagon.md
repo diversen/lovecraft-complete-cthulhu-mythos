@@ -1,5 +1,3 @@
-
-
 # Dagon 
 
 #### By H. P. Lovecraft (1917)
